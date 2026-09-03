@@ -1,0 +1,59 @@
+project:
+  title: "Predictors and measurement of shunt response in idiopathic normal-pressure hydrocephalus"
+  short_name: "iNPH umbrella review"
+  data_version: "2026-09-01"
+  analysis_version: "1.2.3"
+  release_tag: "v1.2.3-journal-release"
+  base_freeze: "2026-08-11"
+  targeted_update: "2026-09-01"
+  prospero: "CRD420261494316"
+  language: "en"
+
+paths:
+  extraction_workbook: "data/raw/iNPH_umbrella_final_adjudicated_extraction_v120_2026-08-11.xlsx"
+  overlap_workbook: "data/raw/iNPH_CCA_publication_cohort_review_2026-08-10.xlsx"
+  quality_workbook: "data/raw/iNPH_ROBIS_AMSTAR2_final_author_consensus_2026-08-11.xlsx"
+  dta_2x2: "data/manual/dta_primary_2x2.csv"
+  report_status: "data/manual/report_status.csv"
+  targeted_ai_overlap: "data/manual/targeted_ai_overlap_verified.csv"
+  results: "results"
+
+expected:
+  included_reviews: 41
+  predictor_findings: 192
+  quantitative_estimates: 155
+  outcome_definitions: 139
+  publication_cca_reviews: 19
+  publication_cca_occurrences: 545
+  publication_cca_unique: 429
+  publication_cca: 0.015022015022015
+  cohort_cca_reviews: 20
+  cohort_cca_occurrences: 579
+  cohort_cca_unique: 452
+  cohort_cca: 0.014788076385654
+
+analysis:
+  strict_input_validation: true
+  quality_mode: "auto"
+  include_ft012_accepted_article: true
+  run_ft012_single_anchor_robustness: true
+  run_ft003_author_conflict_sensitivity: true
+  run_all_current_team_authored_reviews_sensitivity: true
+  never_pool_across_reviews: true
+  dta_meta_analysis_enabled: false
+  dta_min_independent_cohorts: 4
+  dta_require_compatible_reference_standard: true
+  dta_require_verified_independence: true
+  render_html_report: true
+  figure_dpi: 400
+  figure_width: 11
+  figure_height: 7
+
+cca:
+  slight_upper_percent: 5
+  moderate_upper_percent: 10
+  high_upper_percent: 15
+
+labels:
+  reviewer_a: "Reviewer 1"
+  reviewer_b: "Reviewer 2"

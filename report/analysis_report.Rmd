@@ -1,0 +1,165 @@
+---
+title: "iNPH umbrella review — reproducible analysis report"
+date: "`r format(Sys.Date(), '%Y-%m-%d')`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(readr)
+library(dplyr)
+library(knitr)
+
+tab <- function(name) {
+  read_csv(file.path("results", "tables", name), show_col_types = FALSE)
+}
+```
+
+# Executive result
+
+This report describes an umbrella review of pre-shunt prediction and post-shunt response measurement in idiopathic normal-pressure hydrocephalus. Review-level pooled estimates are not independent and were not meta-meta-analysed.
+
+```{r key-numbers}
+numbers <- tab("manuscript_numbers.csv")
+kable(numbers[, c("metric", "formatted", "interpretation_status")], col.names = c("Metric", "Result", "Status"))
+```
+
+# Evidence architecture
+
+```{r evidence-map, out.width='100%'}
+knitr::include_graphics("results/figures/figure_01_review_evidence_map.png")
+```
+
+```{r finding-map, out.width='100%'}
+knitr::include_graphics("results/figures/figure_02_finding_evidence_map.png")
+```
+
+# Methodological quality
+
+Primary quality analyses use the completed author consensus. Reviewer-specific results are retained only as transparency analyses and never replace the final adjudicated judgments.
+
+```{r quality-readiness}
+kable(tab("quality_consensus_readiness.csv"))
+```
+
+```{r robis-plot, out.width='100%'}
+knitr::include_graphics("results/figures/figure_03_robis_quality_distribution.png")
+```
+
+```{r amstar-plot, out.width='85%'}
+knitr::include_graphics("results/figures/figure_04_amstar2_confidence.png")
+```
+
+```{r amstar-critical, out.width='100%'}
+knitr::include_graphics("results/figures/supplement_amstar2_critical_domain_heatmap.png")
+```
+
+# Response-definition audit
+
+```{r response-plot, out.width='100%'}
+knitr::include_graphics("results/figures/figure_05_response_definition_audit.png")
+```
+
+Instrument validation is not treated as validation of an iNPH shunt-response threshold. MCID sources are counted only when explicitly specific to the response construct and population.
+
+# Overlap and dependence
+
+```{r overlap-table}
+kable(tab("overlap_global_cca_with_coverage.csv"))
+```
+
+```{r overlap-plot, out.width='100%'}
+knitr::include_graphics("results/figures/figure_06_pairwise_overlap_heatmap.png")
+```
+
+```{r cell-cca, out.width='100%'}
+knitr::include_graphics("results/figures/figure_07_cell_proxy_cca.png")
+```
+
+```{r intuitive-duplication}
+kable(tab("overlap_intuitive_duplication_burden.csv"))
+```
+
+```{r ai-targeted-overlap}
+kable(tab("overlap_ai_targeted_exact_cca.csv"))
+```
+
+# Probability translation and source-consistency audit
+
+```{r probability-translation, out.width='100%'}
+knitr::include_graphics("results/figures/figure_10_probability_translation.png")
+```
+
+```{r negative-gatekeeper, out.width='100%'}
+knitr::include_graphics("results/figures/figure_11_negative_gatekeeper_scenario.png")
+```
+
+```{r rout-audit}
+kable(tab("rout_npv_internal_consistency_audit.csv"))
+```
+
+Likelihood-ratio ranges combine marginal confidence limits and are not formal joint 95% intervals. Gatekeeper counts are modeled scenarios per 100 tested, not observed causal harms.
+
+# Clinical translation and readiness
+
+```{r readiness-plot, out.width='100%'}
+knitr::include_graphics("results/figures/figure_08_clinical_cell_readiness.png")
+```
+
+```{r clinical-matrix}
+clinical <- tab("clinical_cell_analysis_matrix.csv")
+kable(
+  clinical[, c(
+    "analysis_cell", "clinical_translation", "analysis_readiness",
+    "robis_status", "overlap_status"
+  )]
+)
+```
+
+# Sensitivity and fragility
+
+```{r sensitivity-plot, out.width='100%'}
+knitr::include_graphics("results/figures/figure_09_sensitivity_anchor_retention.png")
+```
+
+```{r sensitivity-table}
+kable(tab("sensitivity_scenario_summary.csv")[, 1:7])
+```
+
+# Concordance, credibility, and reporting completeness
+
+```{r concordance, out.width='100%'}
+knitr::include_graphics("results/figures/figure_12_directional_concordance.png")
+```
+
+```{r credibility, out.width='100%'}
+knitr::include_graphics("results/figures/figure_13_claim_credibility_profile.png")
+```
+
+The credibility profile is a transparent categorical framework developed for this review. It is not GRADE and it does not calculate a numerical score. Directional concordance is not interpreted as causal treatment-effect modification.
+
+```{r reporting-completeness}
+kable(tab("quantitative_reporting_and_causal_audit.csv"))
+```
+
+```{r timeline, out.width='100%'}
+knitr::include_graphics("results/figures/figure_14_review_timeline.png")
+```
+
+# Optional diagnostic meta-analysis
+
+```{r dta-decision}
+kable(tab("dta_meta_analysis_decision.csv"))
+kable(tab("dta_meta_analysis_feasibility.csv"))
+```
+
+The current expected status is `NOT_READY_NO_PRIMARY_2X2_DATA`. This does not block the umbrella review. It indicates that an updated primary-study diagnostic-accuracy component would require separate data recovery, screening, extraction, cohort reconciliation, and risk-of-bias assessment.
+
+# Interpretation
+
+The evidence is more compatible with probabilistic, multimodal selection than solitary binary gatekeeping. Positive supplemental tests may increase confidence, whereas current review-level evidence does not establish any isolated negative test or absent marker as a validated stand-alone exclusion rule for clinically important shunt benefit. Prognostic association must not be interpreted as causal modification of the treatment effect.

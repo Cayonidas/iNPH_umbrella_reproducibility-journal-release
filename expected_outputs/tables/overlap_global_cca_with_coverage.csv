@@ -1,0 +1,3 @@
+unit,included_reviews,total_included_reviews,coverage,N,r,denominator,cca,interpretation,coverage_note,source_workbook_N,source_workbook_cca,audit_note
+Publication,19,41,0.4634146341463415,545,429,7722,0.015022015022015021,SLIGHT,19/41 reviews with closed or table-bounded lists,545,0.015022015022015,Recomputed value agrees with the source summary.
+Conservatively linked cohort family,20,41,0.4878048780487805,579,452,8588,0.014788076385654401,SLIGHT,20/41 reviews with usable cohort-family mapping,580,0.01490451793199814,Corrected: two SINPHONI-2 companion publications in FT-002 form one review-by-cohort cell.

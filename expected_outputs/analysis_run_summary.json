@@ -1,0 +1,65 @@
+{
+  "project": {
+    "title": "Predictors and measurement of shunt response in idiopathic normal-pressure hydrocephalus",
+    "short_name": "iNPH umbrella review",
+    "data_version": "2026-09-01",
+    "analysis_version": "1.2.3",
+    "release_tag": "v1.2.3-journal-release",
+    "base_freeze": "2026-08-11",
+    "targeted_update": "2026-09-01",
+    "prospero": "CRD420261494316",
+    "language": "en"
+  },
+  "completed_at": "2026-09-01 (targeted source-status and quantitative update)",
+  "validation": {
+    "critical_checks_passed": true,
+    "quality_consensus_complete": true,
+    "pending_robis_cells": 0,
+    "pending_amstar_applicability_rows": 0,
+    "pending_amstar_confidence_rows": 0,
+    "pending_amstar_summary_union_rows": 0,
+    "pending_amstar_item_cells": 0
+  },
+  "ft012_policy": {
+    "main_analysis": "Accepted peer-reviewed Frontiers source retained",
+    "quantitative_source": "Official accepted abstract updated 2026-09-01",
+    "structural_source": "Complete preprint pending final formatted accepted full text",
+    "single_anchor_robustness": "Exclude FT-012 without calling this a peer-reviewed-only restriction"
+  },
+  "registration": {
+    "registry": "PROSPERO",
+    "id": "CRD420261494316",
+    "timing": "retrospective"
+  },
+  "overlap": {
+    "publication_cca": 0.015,
+    "publication_coverage_reviews": 19,
+    "cohort_cca": 0.0148,
+    "cohort_coverage_reviews": 20
+  },
+  "outcome_validity": {
+    "explicitly_validated_inph_shunt_response_thresholds": 0,
+    "total_definitions": 139,
+    "response_specific_mcid_sources": 0
+  },
+  "author_overlap_management": {
+    "current_team_authored_included_reviews": [
+      "FT-003",
+      "FT-011"
+    ],
+    "current_first_author_overlap": "FT-003",
+    "joint_exclusion_anchor_microcells_retained": 53,
+    "joint_exclusion_high_level_cells_retained": 10,
+    "note": "FT-011 contributes supporting estimates only; excluding both therefore matches FT-003 anchor retention."
+  },
+  "meta_analysis_decision": {
+    "component": "De novo diagnostic-accuracy meta-analysis",
+    "decision": "DO_NOT_RUN_YET",
+    "status": "NOT_READY_NO_PRIMARY_2X2_DATA"
+  },
+  "principal_rule": "No pooling across reviews; one anchor review per clinical microcell.",
+  "public_release_scope": {
+    "quality_source": "Final human author-consensus workbook",
+    "nonanalytic_development_comparison_included": false
+  }
+}

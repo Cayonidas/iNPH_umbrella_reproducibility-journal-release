@@ -1,0 +1,2 @@
+study_id,report_id,cohort_id,citation,index_test,threshold_group,threshold_value,tp,fp,fn,tn,reference_standard,follow_up,shunt_response_definition,inph_only,independent_cohort,reference_standard_compatible,include_in_primary_dta,source_review,source_locator,notes
+

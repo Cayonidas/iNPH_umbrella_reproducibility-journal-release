@@ -1,0 +1,42 @@
+name: Reproducibility checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: "4.5.1"
+          use-public-rspm: true
+
+      - uses: r-lib/actions/setup-pandoc@v2
+
+      - name: Install analysis dependencies
+        run: Rscript install_packages.R
+
+      - name: Run regression tests
+        run: Rscript tests/testthat.R
+
+      - name: Reproduce analysis
+        run: Rscript run_all.R
+
+      - name: Validate manuscript-facing outputs
+        run: Rscript scripts/validate_outputs.R
+
+      - name: Run structural release audit
+        run: python scripts/static_release_check.py
+
+      - name: Upload run outputs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: reproducibility-results
+          path: results/
+

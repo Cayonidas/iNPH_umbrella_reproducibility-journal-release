@@ -1,0 +1,2 @@
+component,decision,status,clinical_reason,consequence_for_umbrella
+De novo diagnostic-accuracy meta-analysis,DO_NOT_RUN_YET,NOT_READY_NO_PRIMARY_2X2_DATA,"A valid bivariate/HSROC model requires verified independent primary cohorts, compatible post-shunt reference standards, and complete 2x2 data.",None. The umbrella-review analyses remain valid and complete without this optional expansion.

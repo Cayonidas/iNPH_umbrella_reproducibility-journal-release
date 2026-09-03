@@ -1,0 +1,1968 @@
+label,master_id,source_status,pretest_probability,post_test_probability_negative
+Rout >12,FT-010,peer_reviewed_full_report,0.2,0.1451917033312382
+Rout >12,FT-010,peer_reviewed_full_report,0.2025,0.1471326009860739
+Rout >12,FT-010,peer_reviewed_full_report,0.20500000000000002,0.1490768286348397
+Rout >12,FT-010,peer_reviewed_full_report,0.20750000000000002,0.15102439485478877
+Rout >12,FT-010,peer_reviewed_full_report,0.21000000000000002,0.15297530825265682
+Rout >12,FT-010,peer_reviewed_full_report,0.21250000000000002,0.15492957746478878
+Rout >12,FT-010,peer_reviewed_full_report,0.21500000000000002,0.1568872111572663
+Rout >12,FT-010,peer_reviewed_full_report,0.21750000000000003,0.15884821802603605
+Rout >12,FT-010,peer_reviewed_full_report,0.22,0.16081260679703818
+Rout >12,FT-010,peer_reviewed_full_report,0.2225,0.16278038622633595
+Rout >12,FT-010,peer_reviewed_full_report,0.225,0.16475156510024566
+Rout >12,FT-010,peer_reviewed_full_report,0.2275,0.1667261522354677
+Rout >12,FT-010,peer_reviewed_full_report,0.23,0.1687041564792176
+Rout >12,FT-010,peer_reviewed_full_report,0.2325,0.17068558670935863
+Rout >12,FT-010,peer_reviewed_full_report,0.23500000000000001,0.17267045183453408
+Rout >12,FT-010,peer_reviewed_full_report,0.23750000000000002,0.17465876079430143
+Rout >12,FT-010,peer_reviewed_full_report,0.24000000000000002,0.1766505225592659
+Rout >12,FT-010,peer_reviewed_full_report,0.24250000000000002,0.1786457461312158
+Rout >12,FT-010,peer_reviewed_full_report,0.245,0.18064444054325796
+Rout >12,FT-010,peer_reviewed_full_report,0.2475,0.18264661485995418
+Rout >12,FT-010,peer_reviewed_full_report,0.25,0.18465227817745802
+Rout >12,FT-010,peer_reviewed_full_report,0.2525,0.1866614396236529
+Rout >12,FT-010,peer_reviewed_full_report,0.255,0.1886741083582902
+Rout >12,FT-010,peer_reviewed_full_report,0.2575,0.1906902935731288
+Rout >12,FT-010,peer_reviewed_full_report,0.26,0.1927100044920747
+Rout >12,FT-010,peer_reviewed_full_report,0.2625,0.19473325037132191
+Rout >12,FT-010,peer_reviewed_full_report,0.265,0.19676004049949378
+Rout >12,FT-010,peer_reviewed_full_report,0.2675,0.19879038419778508
+Rout >12,FT-010,peer_reviewed_full_report,0.27,0.200824290820105
+Rout >12,FT-010,peer_reviewed_full_report,0.2725,0.20286176975322068
+Rout >12,FT-010,peer_reviewed_full_report,0.275,0.20490283041690188
+Rout >12,FT-010,peer_reviewed_full_report,0.2775,0.2069474822640657
+Rout >12,FT-010,peer_reviewed_full_report,0.28,0.2089957347809229
+Rout >12,FT-010,peer_reviewed_full_report,0.28250000000000003,0.21104759748712434
+Rout >12,FT-010,peer_reviewed_full_report,0.28500000000000003,0.21310307993590888
+Rout >12,FT-010,peer_reviewed_full_report,0.28750000000000003,0.21516219171425102
+Rout >12,FT-010,peer_reviewed_full_report,0.29000000000000004,0.21722494244301047
+Rout >12,FT-010,peer_reviewed_full_report,0.2925,0.2192913417770818
+Rout >12,FT-010,peer_reviewed_full_report,0.29500000000000004,0.22136139940554506
+Rout >12,FT-010,peer_reviewed_full_report,0.2975,0.2234351250518171
+Rout >12,FT-010,peer_reviewed_full_report,0.30000000000000004,0.22551252847380415
+Rout >12,FT-010,peer_reviewed_full_report,0.3025,0.22759361946405454
+Rout >12,FT-010,peer_reviewed_full_report,0.305,0.22967840784991275
+Rout >12,FT-010,peer_reviewed_full_report,0.3075,0.2317669034936742
+Rout >12,FT-010,peer_reviewed_full_report,0.31,0.23385911629274028
+Rout >12,FT-010,peer_reviewed_full_report,0.3125,0.2359550561797753
+Rout >12,FT-010,peer_reviewed_full_report,0.315,0.23805473312286327
+Rout >12,FT-010,peer_reviewed_full_report,0.3175,0.24015815712566618
+Rout >12,FT-010,peer_reviewed_full_report,0.32,0.24226533822758264
+Rout >12,FT-010,peer_reviewed_full_report,0.3225,0.2443762865039077
+Rout >12,FT-010,peer_reviewed_full_report,0.325,0.2464910120659936
+Rout >12,FT-010,peer_reviewed_full_report,0.3275,0.24860952506141096
+Rout >12,FT-010,peer_reviewed_full_report,0.33,0.25073183567411117
+Rout >12,FT-010,peer_reviewed_full_report,0.3325,0.25285795412458956
+Rout >12,FT-010,peer_reviewed_full_report,0.335,0.2549878906700496
+Rout >12,FT-010,peer_reviewed_full_report,0.3375,0.25712165560456773
+Rout >12,FT-010,peer_reviewed_full_report,0.34,0.2592592592592593
+Rout >12,FT-010,peer_reviewed_full_report,0.3425,0.2614007120024449
+Rout >12,FT-010,peer_reviewed_full_report,0.345,0.26354602423981877
+Rout >12,FT-010,peer_reviewed_full_report,0.34750000000000003,0.26569520641461664
+Rout >12,FT-010,peer_reviewed_full_report,0.35,0.2678482690077853
+Rout >12,FT-010,peer_reviewed_full_report,0.35250000000000004,0.2700052225381536
+Rout >12,FT-010,peer_reviewed_full_report,0.355,0.27216607756260264
+Rout >12,FT-010,peer_reviewed_full_report,0.35750000000000004,0.27433084467623936
+Rout >12,FT-010,peer_reviewed_full_report,0.36,0.27649953451256815
+Rout >12,FT-010,peer_reviewed_full_report,0.36250000000000004,0.2786721577436666
+Rout >12,FT-010,peer_reviewed_full_report,0.365,0.280848725080359
+Rout >12,FT-010,peer_reviewed_full_report,0.36750000000000005,0.2830292472723939
+Rout >12,FT-010,peer_reviewed_full_report,0.37,0.2852137351086195
+Rout >12,FT-010,peer_reviewed_full_report,0.37250000000000005,0.28740219941716283
+Rout >12,FT-010,peer_reviewed_full_report,0.375,0.289594651065608
+Rout >12,FT-010,peer_reviewed_full_report,0.3775,0.2917911009611765
+Rout >12,FT-010,peer_reviewed_full_report,0.38,0.29399156005090765
+Rout >12,FT-010,peer_reviewed_full_report,0.3825,0.2961960393218408
+Rout >12,FT-010,peer_reviewed_full_report,0.385,0.2984045498011979
+Rout >12,FT-010,peer_reviewed_full_report,0.3875,0.3006171025565677
+Rout >12,FT-010,peer_reviewed_full_report,0.39,0.30283370869609066
+Rout >12,FT-010,peer_reviewed_full_report,0.3925,0.3050543793686442
+Rout >12,FT-010,peer_reviewed_full_report,0.395,0.30727912576403044
+Rout >12,FT-010,peer_reviewed_full_report,0.3975,0.30950795911316353
+Rout >12,FT-010,peer_reviewed_full_report,0.4,0.3117408906882591
+Rout >12,FT-010,peer_reviewed_full_report,0.4025,0.3139779318030241
+Rout >12,FT-010,peer_reviewed_full_report,0.405,0.3162190938128476
+Rout >12,FT-010,peer_reviewed_full_report,0.40750000000000003,0.31846438811499334
+Rout >12,FT-010,peer_reviewed_full_report,0.41000000000000003,0.3207138261487928
+Rout >12,FT-010,peer_reviewed_full_report,0.4125,0.3229674193958395
+Rout >12,FT-010,peer_reviewed_full_report,0.41500000000000004,0.3252251793801843
+Rout >12,FT-010,peer_reviewed_full_report,0.4175,0.32748711766853145
+Rout >12,FT-010,peer_reviewed_full_report,0.42000000000000004,0.32975324587043714
+Rout >12,FT-010,peer_reviewed_full_report,0.4225,0.3320235756385069
+Rout >12,FT-010,peer_reviewed_full_report,0.42500000000000004,0.33429811866859627
+Rout >12,FT-010,peer_reviewed_full_report,0.4275,0.33657688670001107
+Rout >12,FT-010,peer_reviewed_full_report,0.43000000000000005,0.3388598915157098
+Rout >12,FT-010,peer_reviewed_full_report,0.4325,0.34114714494250614
+Rout >12,FT-010,peer_reviewed_full_report,0.43500000000000005,0.343438658851274
+Rout >12,FT-010,peer_reviewed_full_report,0.4375,0.34573444515715207
+Rout >12,FT-010,peer_reviewed_full_report,0.44,0.34803451581975076
+Rout >12,FT-010,peer_reviewed_full_report,0.4425,0.3503388828433599
+Rout >12,FT-010,peer_reviewed_full_report,0.445,0.35264755827715744
+Rout >12,FT-010,peer_reviewed_full_report,0.4475,0.35496055421541944
+Rout >12,FT-010,peer_reviewed_full_report,0.45,0.3572778827977316
+Rout >12,FT-010,peer_reviewed_full_report,0.4525,0.3595995562092009
+Rout >12,FT-010,peer_reviewed_full_report,0.455,0.3619255866806701
+Rout >12,FT-010,peer_reviewed_full_report,0.4575,0.3642559864889318
+Rout >12,FT-010,peer_reviewed_full_report,0.46,0.36659076795694473
+Rout >12,FT-010,peer_reviewed_full_report,0.4625,0.3689299434540511
+Rout >12,FT-010,peer_reviewed_full_report,0.465,0.37127352539619446
+Rout >12,FT-010,peer_reviewed_full_report,0.4675,0.3736215262461403
+Rout >12,FT-010,peer_reviewed_full_report,0.47000000000000003,0.375973958513696
+Rout >12,FT-010,peer_reviewed_full_report,0.47250000000000003,0.3783308347559339
+Rout >12,FT-010,peer_reviewed_full_report,0.47500000000000003,0.3806921675774136
+Rout >12,FT-010,peer_reviewed_full_report,0.47750000000000004,0.38305796963040784
+Rout >12,FT-010,peer_reviewed_full_report,0.48000000000000004,0.385428253615128
+Rout >12,FT-010,peer_reviewed_full_report,0.48250000000000004,0.387803032279951
+Rout >12,FT-010,peer_reviewed_full_report,0.48500000000000004,0.3901823184216484
+Rout >12,FT-010,peer_reviewed_full_report,0.48750000000000004,0.392566124885616
+Rout >12,FT-010,peer_reviewed_full_report,0.49,0.3949544645661049
+Rout >12,FT-010,peer_reviewed_full_report,0.4925,0.39734735040645436
+Rout >12,FT-010,peer_reviewed_full_report,0.495,0.3997447953993253
+Rout >12,FT-010,peer_reviewed_full_report,0.4975,0.40214681258693546
+Rout >12,FT-010,peer_reviewed_full_report,0.5,0.404553415061296
+Rout >12,FT-010,peer_reviewed_full_report,0.5025,0.40696461596444944
+Rout >12,FT-010,peer_reviewed_full_report,0.505,0.40938042848870876
+Rout >12,FT-010,peer_reviewed_full_report,0.5075000000000001,0.41180086587689807
+Rout >12,FT-010,peer_reviewed_full_report,0.51,0.4142259414225941
+Rout >12,FT-010,peer_reviewed_full_report,0.5125,0.41665566847037083
+Rout >12,FT-010,peer_reviewed_full_report,0.515,0.4190900604160428
+Rout >12,FT-010,peer_reviewed_full_report,0.5175000000000001,0.4215291307069123
+Rout >12,FT-010,peer_reviewed_full_report,0.52,0.4239728928420161
+Rout >12,FT-010,peer_reviewed_full_report,0.5225,0.42642136037237566
+Rout >12,FT-010,peer_reviewed_full_report,0.525,0.4288745469012466
+Rout >12,FT-010,peer_reviewed_full_report,0.5275000000000001,0.431332466084371
+Rout >12,FT-010,peer_reviewed_full_report,0.53,0.4337951316302307
+Rout >12,FT-010,peer_reviewed_full_report,0.5325,0.43626255730030233
+Rout >12,FT-010,peer_reviewed_full_report,0.535,0.43873475690931363
+Rout >12,FT-010,peer_reviewed_full_report,0.5375000000000001,0.4412117443255009
+Rout >12,FT-010,peer_reviewed_full_report,0.54,0.44369353347086865
+Rout >12,FT-010,peer_reviewed_full_report,0.5425,0.44618013832145054
+Rout >12,FT-010,peer_reviewed_full_report,0.545,0.4486715729075714
+Rout >12,FT-010,peer_reviewed_full_report,0.5475000000000001,0.4511678513141115
+Rout >12,FT-010,peer_reviewed_full_report,0.55,0.4536689876807714
+Rout >12,FT-010,peer_reviewed_full_report,0.5525,0.45617499620233937
+Rout >12,FT-010,peer_reviewed_full_report,0.5549999999999999,0.45868589112896013
+Rout >12,FT-010,peer_reviewed_full_report,0.5575,0.46120168676640433
+Rout >12,FT-010,peer_reviewed_full_report,0.56,0.46372239747634075
+Rout >12,FT-010,peer_reviewed_full_report,0.5625,0.46624803767660916
+Rout >12,FT-010,peer_reviewed_full_report,0.565,0.4687786218414955
+Rout >12,FT-010,peer_reviewed_full_report,0.5675,0.4713141645020089
+Rout >12,FT-010,peer_reviewed_full_report,0.5700000000000001,0.47385468024615834
+Rout >12,FT-010,peer_reviewed_full_report,0.5725,0.47640018371923387
+Rout >12,FT-010,peer_reviewed_full_report,0.575,0.47895068962408727
+Rout >12,FT-010,peer_reviewed_full_report,0.5775,0.48150621272141564
+Rout >12,FT-010,peer_reviewed_full_report,0.5800000000000001,0.48406676783004565
+Rout >12,FT-010,peer_reviewed_full_report,0.5825,0.4866323698272199
+Rout >12,FT-010,peer_reviewed_full_report,0.585,0.4892030336488859
+Rout >12,FT-010,peer_reviewed_full_report,0.5875,0.49177877428998507
+Rout >12,FT-010,peer_reviewed_full_report,0.5900000000000001,0.49435960680474456
+Rout >12,FT-010,peer_reviewed_full_report,0.5925,0.49694554630697035
+Rout >12,FT-010,peer_reviewed_full_report,0.595,0.49953660797034294
+Rout >12,FT-010,peer_reviewed_full_report,0.5975,0.5021328070287134
+Rout >12,FT-010,peer_reviewed_full_report,0.6000000000000001,0.5047341587764023
+Rout >12,FT-010,peer_reviewed_full_report,0.6025,0.5073406785684994
+Rout >12,FT-010,peer_reviewed_full_report,0.605,0.5099523818211673
+Rout >12,FT-010,peer_reviewed_full_report,0.6075,0.5125692840119438
+Rout >12,FT-010,peer_reviewed_full_report,0.6100000000000001,0.5151914006800483
+Rout >12,FT-010,peer_reviewed_full_report,0.6125,0.5178187474266893
+Rout >12,FT-010,peer_reviewed_full_report,0.615,0.5204513399153738
+Rout >12,FT-010,peer_reviewed_full_report,0.6174999999999999,0.5230891938722186
+Rout >12,FT-010,peer_reviewed_full_report,0.62,0.5257323250862639
+Rout >12,FT-010,peer_reviewed_full_report,0.6225,0.5283807494097871
+Rout >12,FT-010,peer_reviewed_full_report,0.625,0.5310344827586206
+Rout >12,FT-010,peer_reviewed_full_report,0.6275,0.5336935411124714
+Rout >12,FT-010,peer_reviewed_full_report,0.63,0.5363579405152398
+Rout >12,FT-010,peer_reviewed_full_report,0.6325000000000001,0.5390276970753438
+Rout >12,FT-010,peer_reviewed_full_report,0.635,0.5417028269660432
+Rout >12,FT-010,peer_reviewed_full_report,0.6375,0.5443833464257659
+Rout >12,FT-010,peer_reviewed_full_report,0.64,0.547069271758437
+Rout >12,FT-010,peer_reviewed_full_report,0.6425000000000001,0.5497606193338088
+Rout >12,FT-010,peer_reviewed_full_report,0.645,0.5524574055877937
+Rout >12,FT-010,peer_reviewed_full_report,0.6475,0.5551596470227986
+Rout >12,FT-010,peer_reviewed_full_report,0.65,0.5578673602080625
+Rout >12,FT-010,peer_reviewed_full_report,0.6525000000000001,0.5605805617799928
+Rout >12,FT-010,peer_reviewed_full_report,0.655,0.5632992684425085
+Rout >12,FT-010,peer_reviewed_full_report,0.6575,0.566023496967382
+Rout >12,FT-010,peer_reviewed_full_report,0.66,0.5687532641945834
+Rout >12,FT-010,peer_reviewed_full_report,0.6625000000000001,0.5714885870326286
+Rout >12,FT-010,peer_reviewed_full_report,0.665,0.5742294824589276
+Rout >12,FT-010,peer_reviewed_full_report,0.6675,0.5769759675201361
+Rout >12,FT-010,peer_reviewed_full_report,0.67,0.5797280593325094
+Rout >12,FT-010,peer_reviewed_full_report,0.6725000000000001,0.5824857750822563
+Rout >12,FT-010,peer_reviewed_full_report,0.675,0.5852491320258986
+Rout >12,FT-010,peer_reviewed_full_report,0.6775,0.5880181474906303
+Rout >12,FT-010,peer_reviewed_full_report,0.6799999999999999,0.5907928388746804
+Rout >12,FT-010,peer_reviewed_full_report,0.6825,0.5935732236476756
+Rout >12,FT-010,peer_reviewed_full_report,0.685,0.5963593193510092
+Rout >12,FT-010,peer_reviewed_full_report,0.6875,0.599151143598208
+Rout >12,FT-010,peer_reviewed_full_report,0.69,0.6019487140753049
+Rout >12,FT-010,peer_reviewed_full_report,0.6925,0.6047520485412118
+Rout >12,FT-010,peer_reviewed_full_report,0.6950000000000001,0.6075611648280952
+Rout >12,FT-010,peer_reviewed_full_report,0.6975,0.6103760808417544
+Rout >12,FT-010,peer_reviewed_full_report,0.7,0.6131968145620024
+Rout >12,FT-010,peer_reviewed_full_report,0.7025000000000001,0.616023384043048
+Rout >12,FT-010,peer_reviewed_full_report,0.7050000000000001,0.6188558074138816
+Rout >12,FT-010,peer_reviewed_full_report,0.7075,0.6216941028786624
+Rout >12,FT-010,peer_reviewed_full_report,0.71,0.624538288717109
+Rout >12,FT-010,peer_reviewed_full_report,0.7124999999999999,0.6273883832848907
+Rout >12,FT-010,peer_reviewed_full_report,0.7150000000000001,0.6302444050140235
+Rout >12,FT-010,peer_reviewed_full_report,0.7175,0.6331063724132663
+Rout >12,FT-010,peer_reviewed_full_report,0.72,0.6359743040685225
+Rout >12,FT-010,peer_reviewed_full_report,0.7224999999999999,0.6388482186432406
+Rout >12,FT-010,peer_reviewed_full_report,0.7250000000000001,0.64172813487882
+Rout >12,FT-010,peer_reviewed_full_report,0.7275,0.6446140715950174
+Rout >12,FT-010,peer_reviewed_full_report,0.73,0.6475060476903582
+Rout >12,FT-010,peer_reviewed_full_report,0.7324999999999999,0.6504040821425482
+Rout >12,FT-010,peer_reviewed_full_report,0.7350000000000001,0.6533081940088886
+Rout >12,FT-010,peer_reviewed_full_report,0.7375,0.6562184024266937
+Rout >12,FT-010,peer_reviewed_full_report,0.74,0.6591347266137118
+Rout >12,FT-010,peer_reviewed_full_report,0.7424999999999999,0.6620571858685478
+Rout >12,FT-010,peer_reviewed_full_report,0.7450000000000001,0.6649857995710893
+Rout >12,FT-010,peer_reviewed_full_report,0.7475,0.6679205871829339
+Rout >12,FT-010,peer_reviewed_full_report,0.75,0.6708615682478218
+Rout >12,FT-010,peer_reviewed_full_report,0.7525,0.673808762392069
+Rout >12,FT-010,peer_reviewed_full_report,0.7550000000000001,0.6767621893250035
+Rout >12,FT-010,peer_reviewed_full_report,0.7575000000000001,0.6797218688394046
+Rout >12,FT-010,peer_reviewed_full_report,0.76,0.6826878208119459
+Rout >12,FT-010,peer_reviewed_full_report,0.7625,0.6856600652036396
+Rout >12,FT-010,peer_reviewed_full_report,0.7650000000000001,0.688638622060285
+Rout >12,FT-010,peer_reviewed_full_report,0.7675000000000001,0.6916235115129175
+Rout >12,FT-010,peer_reviewed_full_report,0.77,0.6946147537782638
+Rout >12,FT-010,peer_reviewed_full_report,0.7725,0.6976123691591982
+Rout >12,FT-010,peer_reviewed_full_report,0.7750000000000001,0.7006163780452013
+Rout >12,FT-010,peer_reviewed_full_report,0.7775000000000001,0.7036268009128217
+Rout >12,FT-010,peer_reviewed_full_report,0.78,0.7066436583261433
+Rout >12,FT-010,peer_reviewed_full_report,0.7825,0.7096669709372515
+Rout >12,FT-010,peer_reviewed_full_report,0.7849999999999999,0.7126967594867057
+Rout >12,FT-010,peer_reviewed_full_report,0.7875000000000001,0.7157330448040132
+Rout >12,FT-010,peer_reviewed_full_report,0.79,0.7187758478081059
+Rout >12,FT-010,peer_reviewed_full_report,0.7925,0.7218251895078218
+Rout >12,FT-010,peer_reviewed_full_report,0.7949999999999999,0.724881091002388
+Rout >12,FT-010,peer_reviewed_full_report,0.7975000000000001,0.7279435734819075
+Rout >12,FT-010,peer_reviewed_full_report,0.8,0.7310126582278481
+Rout >12,FT-010,peer_reviewed_full_report,0.8025,0.7340883666135372
+Rout >12,FT-010,peer_reviewed_full_report,0.8049999999999999,0.737170720104656
+Rout >12,FT-010,peer_reviewed_full_report,0.8075000000000001,0.7402597402597404
+Rout >12,FT-010,peer_reviewed_full_report,0.81,0.7433554487306822
+Rout >12,FT-010,peer_reviewed_full_report,0.8125,0.7464578672632364
+Rout >12,FT-010,peer_reviewed_full_report,0.815,0.7495670176975294
+Rout >12,FT-010,peer_reviewed_full_report,0.8175000000000001,0.7526829219685723
+Rout >12,FT-010,peer_reviewed_full_report,0.8200000000000001,0.7558056021067754
+Rout >12,FT-010,peer_reviewed_full_report,0.8225,0.7589350802384686
+Rout >12,FT-010,peer_reviewed_full_report,0.825,0.762071378586424
+Rout >12,FT-010,peer_reviewed_full_report,0.8275000000000001,0.7652145194703818
+Rout >12,FT-010,peer_reviewed_full_report,0.8300000000000001,0.7683645253075784
+Rout >12,FT-010,peer_reviewed_full_report,0.8325,0.7715214186132815
+Rout >12,FT-010,peer_reviewed_full_report,0.835,0.7746852220013254
+Rout >12,FT-010,peer_reviewed_full_report,0.8375000000000001,0.7778559581846511
+Rout >12,FT-010,peer_reviewed_full_report,0.8400000000000001,0.7810336499758493
+Rout >12,FT-010,peer_reviewed_full_report,0.8425,0.784218320287709
+Rout >12,FT-010,peer_reviewed_full_report,0.845,0.7874099921337663
+Rout >12,FT-010,peer_reviewed_full_report,0.8474999999999999,0.7906086886288605
+Rout >12,FT-010,peer_reviewed_full_report,0.8500000000000001,0.7938144329896908
+Rout >12,FT-010,peer_reviewed_full_report,0.8525,0.7970272485353787
+Rout >12,FT-010,peer_reviewed_full_report,0.855,0.8002471586880331
+Rout >12,FT-010,peer_reviewed_full_report,0.8574999999999999,0.8034741869733198
+Rout >12,FT-010,peer_reviewed_full_report,0.8600000000000001,0.8067083570210348
+Rout >12,FT-010,peer_reviewed_full_report,0.8625,0.8099496925656792
+Rout >12,FT-010,peer_reviewed_full_report,0.865,0.8131982174470422
+Rout >12,FT-010,peer_reviewed_full_report,0.8674999999999999,0.8164539556107845
+Rout >12,FT-010,peer_reviewed_full_report,0.8700000000000001,0.8197169311090265
+Rout >12,FT-010,peer_reviewed_full_report,0.8725,0.8229871681009403
+Rout >12,FT-010,peer_reviewed_full_report,0.875,0.826264690853347
+Rout >12,FT-010,peer_reviewed_full_report,0.8775,0.8295495237413163
+Rout >12,FT-010,peer_reviewed_full_report,0.8800000000000001,0.832841691248771
+Rout >12,FT-010,peer_reviewed_full_report,0.8825000000000001,0.8361412179690946
+Rout >12,FT-010,peer_reviewed_full_report,0.885,0.8394481286057446
+Rout >12,FT-010,peer_reviewed_full_report,0.8875,0.8427624479728688
+Rout >12,FT-010,peer_reviewed_full_report,0.8900000000000001,0.846084200995926
+Rout >12,FT-010,peer_reviewed_full_report,0.8925000000000001,0.8494134127123096
+Rout >12,FT-010,peer_reviewed_full_report,0.895,0.8527501082719793
+Rout >12,FT-010,peer_reviewed_full_report,0.8975,0.8560943129380916
+Rout >12,FT-010,peer_reviewed_full_report,0.9,0.8594460520876396
+Rout >14,FT-010,peer_reviewed_full_report,0.2,0.11004784688995212
+Rout >14,FT-010,peer_reviewed_full_report,0.2025,0.1115802713143473
+Rout >14,FT-010,peer_reviewed_full_report,0.20500000000000002,0.11311701553409703
+Rout >14,FT-010,peer_reviewed_full_report,0.20750000000000002,0.11465809784077598
+Rout >14,FT-010,peer_reviewed_full_report,0.21000000000000002,0.11620353662937564
+Rout >14,FT-010,peer_reviewed_full_report,0.21250000000000002,0.11775335039903627
+Rout >14,FT-010,peer_reviewed_full_report,0.21500000000000002,0.11930755775378488
+Rout >14,FT-010,peer_reviewed_full_report,0.21750000000000003,0.12086617740327985
+Rout >14,FT-010,peer_reviewed_full_report,0.22,0.12242922816356151
+Rout >14,FT-010,peer_reviewed_full_report,0.2225,0.12399672895780957
+Rout >14,FT-010,peer_reviewed_full_report,0.225,0.12556869881710642
+Rout >14,FT-010,peer_reviewed_full_report,0.2275,0.12714515688120762
+Rout >14,FT-010,peer_reviewed_full_report,0.23,0.1287261223993186
+Rout >14,FT-010,peer_reviewed_full_report,0.2325,0.13031161473087813
+Rout >14,FT-010,peer_reviewed_full_report,0.23500000000000001,0.13190165334634857
+Rout >14,FT-010,peer_reviewed_full_report,0.23750000000000002,0.1334962578280128
+Rout >14,FT-010,peer_reviewed_full_report,0.24000000000000002,0.13509544787077823
+Rout >14,FT-010,peer_reviewed_full_report,0.24250000000000002,0.13669924328298763
+Rout >14,FT-010,peer_reviewed_full_report,0.245,0.13830766398723685
+Rout >14,FT-010,peer_reviewed_full_report,0.2475,0.13992073002120006
+Rout >14,FT-010,peer_reviewed_full_report,0.25,0.14153846153846147
+Rout >14,FT-010,peer_reviewed_full_report,0.2525,0.143160878809355
+Rout >14,FT-010,peer_reviewed_full_report,0.255,0.1447880022218107
+Rout >14,FT-010,peer_reviewed_full_report,0.2575,0.1464198522822089
+Rout >14,FT-010,peer_reviewed_full_report,0.26,0.1480564496162416
+Rout >14,FT-010,peer_reviewed_full_report,0.2625,0.14969781496978143
+Rout >14,FT-010,peer_reviewed_full_report,0.265,0.15134396920975846
+Rout >14,FT-010,peer_reviewed_full_report,0.2675,0.15299493332504424
+Rout >14,FT-010,peer_reviewed_full_report,0.27,0.154650728427344
+Rout >14,FT-010,peer_reviewed_full_report,0.2725,0.15631137575209647
+Rout >14,FT-010,peer_reviewed_full_report,0.275,0.1579768966593818
+Rout >14,FT-010,peer_reviewed_full_report,0.2775,0.15964731263483722
+Rout >14,FT-010,peer_reviewed_full_report,0.28,0.16132264529058113
+Rout >14,FT-010,peer_reviewed_full_report,0.28250000000000003,0.16300291636614503
+Rout >14,FT-010,peer_reviewed_full_report,0.28500000000000003,0.16468814772941395
+Rout >14,FT-010,peer_reviewed_full_report,0.28750000000000003,0.16637836137757508
+Rout >14,FT-010,peer_reviewed_full_report,0.29000000000000004,0.16807357943807477
+Rout >14,FT-010,peer_reviewed_full_report,0.2925,0.16977382416958448
+Rout >14,FT-010,peer_reviewed_full_report,0.29500000000000004,0.17147911796297466
+Rout >14,FT-010,peer_reviewed_full_report,0.2975,0.1731894833422975
+Rout >14,FT-010,peer_reviewed_full_report,0.30000000000000004,0.17490494296577944
+Rout >14,FT-010,peer_reviewed_full_report,0.3025,0.1766255196268206
+Rout >14,FT-010,peer_reviewed_full_report,0.305,0.17835123625500532
+Rout >14,FT-010,peer_reviewed_full_report,0.3075,0.18008211591712014
+Rout >14,FT-010,peer_reviewed_full_report,0.31,0.18181818181818177
+Rout >14,FT-010,peer_reviewed_full_report,0.3125,0.183559457302474
+Rout >14,FT-010,peer_reviewed_full_report,0.315,0.18530596585459422
+Rout >14,FT-010,peer_reviewed_full_report,0.3175,0.18705773110050905
+Rout >14,FT-010,peer_reviewed_full_report,0.32,0.18881477680861974
+Rout >14,FT-010,peer_reviewed_full_report,0.3225,0.1905771268908372
+Rout >14,FT-010,peer_reviewed_full_report,0.325,0.1923448054036667
+Rout >14,FT-010,peer_reviewed_full_report,0.3275,0.1941178365493025
+Rout >14,FT-010,peer_reviewed_full_report,0.33,0.19589624467673242
+Rout >14,FT-010,peer_reviewed_full_report,0.3325,0.19768005428285237
+Rout >14,FT-010,peer_reviewed_full_report,0.335,0.19946929001359132
+Rout >14,FT-010,peer_reviewed_full_report,0.3375,0.2012639766650461
+Rout >14,FT-010,peer_reviewed_full_report,0.34,0.20306413918462732
+Rout >14,FT-010,peer_reviewed_full_report,0.3425,0.20486980267221475
+Rout >14,FT-010,peer_reviewed_full_report,0.345,0.20668099238132437
+Rout >14,FT-010,peer_reviewed_full_report,0.34750000000000003,0.2084977337202856
+Rout >14,FT-010,peer_reviewed_full_report,0.35,0.21032005225342904
+Rout >14,FT-010,peer_reviewed_full_report,0.35250000000000004,0.21214797370228627
+Rout >14,FT-010,peer_reviewed_full_report,0.355,0.21398152394679937
+Rout >14,FT-010,peer_reviewed_full_report,0.35750000000000004,0.2158207290265428
+Rout >14,FT-010,peer_reviewed_full_report,0.36,0.21766561514195576
+Rout >14,FT-010,peer_reviewed_full_report,0.36250000000000004,0.21951620865558658
+Rout >14,FT-010,peer_reviewed_full_report,0.365,0.2213725360933482
+Rout >14,FT-010,peer_reviewed_full_report,0.36750000000000005,0.22323462414578582
+Rout >14,FT-010,peer_reviewed_full_report,0.37,0.22510249966935586
+Rout >14,FT-010,peer_reviewed_full_report,0.37250000000000005,0.2269761896877173
+Rout >14,FT-010,peer_reviewed_full_report,0.375,0.22885572139303476
+Rout >14,FT-010,peer_reviewed_full_report,0.3775,0.23074112214729423
+Rout >14,FT-010,peer_reviewed_full_report,0.38,0.2326324194836305
+Rout >14,FT-010,peer_reviewed_full_report,0.3825,0.2345296411076676
+Rout >14,FT-010,peer_reviewed_full_report,0.385,0.23643281489887186
+Rout >14,FT-010,peer_reviewed_full_report,0.3875,0.238341968911917
+Rout >14,FT-010,peer_reviewed_full_report,0.39,0.24025713137806343
+Rout >14,FT-010,peer_reviewed_full_report,0.3925,0.242178330706549
+Rout >14,FT-010,peer_reviewed_full_report,0.395,0.24410559548599442
+Rout >14,FT-010,peer_reviewed_full_report,0.3975,0.2460389544858209
+Rout >14,FT-010,peer_reviewed_full_report,0.4,0.24797843665768185
+Rout >14,FT-010,peer_reviewed_full_report,0.4025,0.24992407113690812
+Rout >14,FT-010,peer_reviewed_full_report,0.405,0.2518758872439667
+Rout >14,FT-010,peer_reviewed_full_report,0.40750000000000003,0.25383391448593373
+Rout >14,FT-010,peer_reviewed_full_report,0.41000000000000003,0.25579818255798176
+Rout >14,FT-010,peer_reviewed_full_report,0.4125,0.25776872134488016
+Rout >14,FT-010,peer_reviewed_full_report,0.41500000000000004,0.2597455609225117
+Rout >14,FT-010,peer_reviewed_full_report,0.4175,0.26172873155940163
+Rout >14,FT-010,peer_reviewed_full_report,0.42000000000000004,0.2637182637182636
+Rout >14,FT-010,peer_reviewed_full_report,0.4225,0.2657141880575588
+Rout >14,FT-010,peer_reviewed_full_report,0.42500000000000004,0.26771653543307083
+Rout >14,FT-010,peer_reviewed_full_report,0.4275,0.26972533689949585
+Rout >14,FT-010,peer_reviewed_full_report,0.43000000000000005,0.2717406237120483
+Rout >14,FT-010,peer_reviewed_full_report,0.4325,0.2737624273280814
+Rout >14,FT-010,peer_reviewed_full_report,0.43500000000000005,0.2757907794087244
+Rout >14,FT-010,peer_reviewed_full_report,0.4375,0.2778257118205349
+Rout >14,FT-010,peer_reviewed_full_report,0.44,0.279867256637168
+Rout >14,FT-010,peer_reviewed_full_report,0.4425,0.2819154461410615
+Rout >14,FT-010,peer_reviewed_full_report,0.445,0.28397031282513696
+Rout >14,FT-010,peer_reviewed_full_report,0.4475,0.2860318893945183
+Rout >14,FT-010,peer_reviewed_full_report,0.45,0.28810020876826714
+Rout >14,FT-010,peer_reviewed_full_report,0.4525,0.29017530408113473
+Rout >14,FT-010,peer_reviewed_full_report,0.455,0.2922572086853312
+Rout >14,FT-010,peer_reviewed_full_report,0.4575,0.2943459561523129
+Rout >14,FT-010,peer_reviewed_full_report,0.46,0.29644158027458667
+Rout >14,FT-010,peer_reviewed_full_report,0.4625,0.2985441150675319
+Rout >14,FT-010,peer_reviewed_full_report,0.465,0.3006535947712418
+Rout >14,FT-010,peer_reviewed_full_report,0.4675,0.3027700538523811
+Rout >14,FT-010,peer_reviewed_full_report,0.47000000000000003,0.3048935270060639
+Rout >14,FT-010,peer_reviewed_full_report,0.47250000000000003,0.30702404915774967
+Rout >14,FT-010,peer_reviewed_full_report,0.47500000000000003,0.3091616554651574
+Rout >14,FT-010,peer_reviewed_full_report,0.47750000000000004,0.3113063813201998
+Rout >14,FT-010,peer_reviewed_full_report,0.48000000000000004,0.3134582623509369
+Rout >14,FT-010,peer_reviewed_full_report,0.48250000000000004,0.31561733442354856
+Rout >14,FT-010,peer_reviewed_full_report,0.48500000000000004,0.31778363364432727
+Rout >14,FT-010,peer_reviewed_full_report,0.48750000000000004,0.3199571963616907
+Rout >14,FT-010,peer_reviewed_full_report,0.49,0.3221380591682148
+Rout >14,FT-010,peer_reviewed_full_report,0.4925,0.3243262589026876
+Rout >14,FT-010,peer_reviewed_full_report,0.495,0.32652183265218315
+Rout >14,FT-010,peer_reviewed_full_report,0.4975,0.3287248177541566
+Rout >14,FT-010,peer_reviewed_full_report,0.5,0.33093525179856104
+Rout >14,FT-010,peer_reviewed_full_report,0.5025,0.33315317262998584
+Rout >14,FT-010,peer_reviewed_full_report,0.505,0.3353786183498158
+Rout >14,FT-010,peer_reviewed_full_report,0.5075000000000001,0.33761162731841354
+Rout >14,FT-010,peer_reviewed_full_report,0.51,0.3398522381573228
+Rout >14,FT-010,peer_reviewed_full_report,0.5125,0.3421004897514963
+Rout >14,FT-010,peer_reviewed_full_report,0.515,0.34435642125154436
+Rout >14,FT-010,peer_reviewed_full_report,0.5175000000000001,0.34662007207600737
+Rout >14,FT-010,peer_reviewed_full_report,0.52,0.3488914819136522
+Rout >14,FT-010,peer_reviewed_full_report,0.5225,0.35117069072579155
+Rout >14,FT-010,peer_reviewed_full_report,0.525,0.3534577387486278
+Rout >14,FT-010,peer_reviewed_full_report,0.5275000000000001,0.35575266649562
+Rout >14,FT-010,peer_reviewed_full_report,0.53,0.35805551475987657
+Rout >14,FT-010,peer_reviewed_full_report,0.5325,0.3603663246165728
+Rout >14,FT-010,peer_reviewed_full_report,0.535,0.3626851374253923
+Rout >14,FT-010,peer_reviewed_full_report,0.5375000000000001,0.365011994832995
+Rout >14,FT-010,peer_reviewed_full_report,0.54,0.3673469387755101
+Rout >14,FT-010,peer_reviewed_full_report,0.5425,0.3696900114810561
+Rout >14,FT-010,peer_reviewed_full_report,0.545,0.37204125547228606
+Rout >14,FT-010,peer_reviewed_full_report,0.5475000000000001,0.3744007135689597
+Rout >14,FT-010,peer_reviewed_full_report,0.55,0.3767684288905435
+Rout >14,FT-010,peer_reviewed_full_report,0.5525,0.37914444485883697
+Rout >14,FT-010,peer_reviewed_full_report,0.5549999999999999,0.3815288052006275
+Rout >14,FT-010,peer_reviewed_full_report,0.5575,0.3839215539503723
+Rout >14,FT-010,peer_reviewed_full_report,0.56,0.3863227354529093
+Rout >14,FT-010,peer_reviewed_full_report,0.5625,0.3887323943661971
+Rout >14,FT-010,peer_reviewed_full_report,0.565,0.3911505756640829
+Rout >14,FT-010,peer_reviewed_full_report,0.5675,0.39357732463910133
+Rout >14,FT-010,peer_reviewed_full_report,0.5700000000000001,0.3960126869053013
+Rout >14,FT-010,peer_reviewed_full_report,0.5725,0.3984567084011044
+Rout >14,FT-010,peer_reviewed_full_report,0.575,0.40090943539219387
+Rout >14,FT-010,peer_reviewed_full_report,0.5775,0.40337091447443335
+Rout >14,FT-010,peer_reviewed_full_report,0.5800000000000001,0.4058411925768177
+Rout >14,FT-010,peer_reviewed_full_report,0.5825,0.4083203169644557
+Rout >14,FT-010,peer_reviewed_full_report,0.585,0.4108083352415845
+Rout >14,FT-010,peer_reviewed_full_report,0.5875,0.41330529535461663
+Rout >14,FT-010,peer_reviewed_full_report,0.5900000000000001,0.4158112455952198
+Rout >14,FT-010,peer_reviewed_full_report,0.5925,0.4183262346034303
+Rout >14,FT-010,peer_reviewed_full_report,0.595,0.4208503113708002
+Rout >14,FT-010,peer_reviewed_full_report,0.5975,0.42338352524357836
+Rout >14,FT-010,peer_reviewed_full_report,0.6000000000000001,0.42592592592592593
+Rout >14,FT-010,peer_reviewed_full_report,0.6025,0.42847756348316773
+Rout >14,FT-010,peer_reviewed_full_report,0.605,0.4310384883450785
+Rout >14,FT-010,peer_reviewed_full_report,0.6075,0.4336087513092051
+Rout >14,FT-010,peer_reviewed_full_report,0.6100000000000001,0.43618840354422506
+Rout >14,FT-010,peer_reviewed_full_report,0.6125,0.4387774965933424
+Rout >14,FT-010,peer_reviewed_full_report,0.615,0.44137608237772047
+Rout >14,FT-010,peer_reviewed_full_report,0.6174999999999999,0.44398421319995296
+Rout >14,FT-010,peer_reviewed_full_report,0.62,0.4466019417475727
+Rout >14,FT-010,peer_reviewed_full_report,0.6225,0.4492293210965995
+Rout >14,FT-010,peer_reviewed_full_report,0.625,0.4518664047151276
+Rout >14,FT-010,peer_reviewed_full_report,0.6275,0.45451324646695257
+Rout >14,FT-010,peer_reviewed_full_report,0.63,0.4571699006152389
+Rout >14,FT-010,peer_reviewed_full_report,0.6325000000000001,0.45983642182622775
+Rout >14,FT-010,peer_reviewed_full_report,0.635,0.462512865172987
+Rout >14,FT-010,peer_reviewed_full_report,0.6375,0.4651992861392027
+Rout >14,FT-010,peer_reviewed_full_report,0.64,0.4678957406230133
+Rout >14,FT-010,peer_reviewed_full_report,0.6425000000000001,0.4706022849408861
+Rout >14,FT-010,peer_reviewed_full_report,0.645,0.4733189758315386
+Rout >14,FT-010,peer_reviewed_full_report,0.6475,0.47604587045990315
+Rout >14,FT-010,peer_reviewed_full_report,0.65,0.47878302642113685
+Rout >14,FT-010,peer_reviewed_full_report,0.6525000000000001,0.48153050174467577
+Rout >14,FT-010,peer_reviewed_full_report,0.655,0.48428835489833627
+Rout >14,FT-010,peer_reviewed_full_report,0.6575,0.48705664479246336
+Rout >14,FT-010,peer_reviewed_full_report,0.66,0.4898354307841238
+Rout >14,FT-010,peer_reviewed_full_report,0.6625000000000001,0.49262477268134974
+Rout >14,FT-010,peer_reviewed_full_report,0.665,0.4954247307474289
+Rout >14,FT-010,peer_reviewed_full_report,0.6675,0.49823536570524507
+Rout >14,FT-010,peer_reviewed_full_report,0.67,0.501056738741668
+Rout >14,FT-010,peer_reviewed_full_report,0.6725000000000001,0.5038889115119924
+Rout >14,FT-010,peer_reviewed_full_report,0.675,0.5067319461444308
+Rout >14,FT-010,peer_reviewed_full_report,0.6775,0.5095859052446551
+Rout >14,FT-010,peer_reviewed_full_report,0.6799999999999999,0.512450851900393
+Rout >14,FT-010,peer_reviewed_full_report,0.6825,0.5153268496860763
+Rout >14,FT-010,peer_reviewed_full_report,0.685,0.5182139626675438
+Rout >14,FT-010,peer_reviewed_full_report,0.6875,0.521112255406797
+Rout >14,FT-010,peer_reviewed_full_report,0.69,0.5240217929668151
+Rout >14,FT-010,peer_reviewed_full_report,0.6925,0.5269426409164218
+Rout >14,FT-010,peer_reviewed_full_report,0.6950000000000001,0.5298748653352117
+Rout >14,FT-010,peer_reviewed_full_report,0.6975,0.5328185328185328
+Rout >14,FT-010,peer_reviewed_full_report,0.7,0.535773710482529
+Rout >14,FT-010,peer_reviewed_full_report,0.7025000000000001,0.5387404659692411
+Rout >14,FT-010,peer_reviewed_full_report,0.7050000000000001,0.5417188674517665
+Rout >14,FT-010,peer_reviewed_full_report,0.7075,0.5447089836394827
+Rout >14,FT-010,peer_reviewed_full_report,0.71,0.5477108837833304
+Rout >14,FT-010,peer_reviewed_full_report,0.7124999999999999,0.5507246376811592
+Rout >14,FT-010,peer_reviewed_full_report,0.7150000000000001,0.5537503156831383
+Rout >14,FT-010,peer_reviewed_full_report,0.7175,0.556787988697229
+Rout >14,FT-010,peer_reviewed_full_report,0.72,0.559837728194726
+Rout >14,FT-010,peer_reviewed_full_report,0.7224999999999999,0.5628996062158612
+Rout >14,FT-010,peer_reviewed_full_report,0.7250000000000001,0.5659736953754774
+Rout >14,FT-010,peer_reviewed_full_report,0.7275,0.5690600688687666
+Rout >14,FT-010,peer_reviewed_full_report,0.73,0.5721588004770829
+Rout >14,FT-010,peer_reviewed_full_report,0.7324999999999999,0.5752699645738185
+Rout >14,FT-010,peer_reviewed_full_report,0.7350000000000001,0.5783936361303567
+Rout >14,FT-010,peer_reviewed_full_report,0.7375,0.5815298907220913
+Rout >14,FT-010,peer_reviewed_full_report,0.74,0.5846788045345241
+Rout >14,FT-010,peer_reviewed_full_report,0.7424999999999999,0.5878404543694332
+Rout >14,FT-010,peer_reviewed_full_report,0.7450000000000001,0.5910149176511167
+Rout >14,FT-010,peer_reviewed_full_report,0.7475,0.5942022724327126
+Rout >14,FT-010,peer_reviewed_full_report,0.75,0.5974025974025973
+Rout >14,FT-010,peer_reviewed_full_report,0.7525,0.60061597189086
+Rout >14,FT-010,peer_reviewed_full_report,0.7550000000000001,0.6038424758758586
+Rout >14,FT-010,peer_reviewed_full_report,0.7575000000000001,0.6070821899908532
+Rout >14,FT-010,peer_reviewed_full_report,0.76,0.6103351955307261
+Rout >14,FT-010,peer_reviewed_full_report,0.7625,0.6136015744587797
+Rout >14,FT-010,peer_reviewed_full_report,0.7650000000000001,0.6168814094136208
+Rout >14,FT-010,peer_reviewed_full_report,0.7675000000000001,0.6201747837161302
+Rout >14,FT-010,peer_reviewed_full_report,0.77,0.6234817813765181
+Rout >14,FT-010,peer_reviewed_full_report,0.7725,0.6268024871014682
+Rout >14,FT-010,peer_reviewed_full_report,0.7750000000000001,0.6301369863013699
+Rout >14,FT-010,peer_reviewed_full_report,0.7775000000000001,0.6334853650976399
+Rout >14,FT-010,peer_reviewed_full_report,0.78,0.6368477103301383
+Rout >14,FT-010,peer_reviewed_full_report,0.7825,0.6402241095646759
+Rout >14,FT-010,peer_reviewed_full_report,0.7849999999999999,0.6436146511006148
+Rout >14,FT-010,peer_reviewed_full_report,0.7875000000000001,0.6470194239785667
+Rout >14,FT-010,peer_reviewed_full_report,0.79,0.6504385179881869
+Rout >14,FT-010,peer_reviewed_full_report,0.7925,0.6538720236760682
+Rout >14,FT-010,peer_reviewed_full_report,0.7949999999999999,0.657320032353734
+Rout >14,FT-010,peer_reviewed_full_report,0.7975000000000001,0.6607826361057325
+Rout >14,FT-010,peer_reviewed_full_report,0.8,0.6642599277978339
+Rout >14,FT-010,peer_reviewed_full_report,0.8025,0.6677520010853343
+Rout >14,FT-010,peer_reviewed_full_report,0.8049999999999999,0.6712589504214628
+Rout >14,FT-010,peer_reviewed_full_report,0.8075000000000001,0.6747808710658977
+Rout >14,FT-010,peer_reviewed_full_report,0.81,0.6783178590933916
+Rout >14,FT-010,peer_reviewed_full_report,0.8125,0.6818700114025085
+Rout >14,FT-010,peer_reviewed_full_report,0.815,0.6854374257244719
+Rout >14,FT-010,peer_reviewed_full_report,0.8175000000000001,0.6890202006321287
+Rout >14,FT-010,peer_reviewed_full_report,0.8200000000000001,0.6926184355490268
+Rout >14,FT-010,peer_reviewed_full_report,0.8225,0.6962322307586143
+Rout >14,FT-010,peer_reviewed_full_report,0.825,0.6998616874135545
+Rout >14,FT-010,peer_reviewed_full_report,0.8275000000000001,0.7035069075451649
+Rout >14,FT-010,peer_reviewed_full_report,0.8300000000000001,0.7071679940729765
+Rout >14,FT-010,peer_reviewed_full_report,0.8325,0.7108450508144228
+Rout >14,FT-010,peer_reviewed_full_report,0.835,0.7145381824946515
+Rout >14,FT-010,peer_reviewed_full_report,0.8375000000000001,0.7182474947564671
+Rout >14,FT-010,peer_reviewed_full_report,0.8400000000000001,0.7219730941704037
+Rout >14,FT-010,peer_reviewed_full_report,0.8425,0.7257150882449324
+Rout >14,FT-010,peer_reviewed_full_report,0.845,0.729473585436802
+Rout >14,FT-010,peer_reviewed_full_report,0.8474999999999999,0.7332486951615176
+Rout >14,FT-010,peer_reviewed_full_report,0.8500000000000001,0.7370405278039586
+Rout >14,FT-010,peer_reviewed_full_report,0.8525,0.7408491947291361
+Rout >14,FT-010,peer_reviewed_full_report,0.855,0.7446748082930984
+Rout >14,FT-010,peer_reviewed_full_report,0.8574999999999999,0.7485174818539777
+Rout >14,FT-010,peer_reviewed_full_report,0.8600000000000001,0.7523773297831876
+Rout >14,FT-010,peer_reviewed_full_report,0.8625,0.7562544674767692
+Rout >14,FT-010,peer_reviewed_full_report,0.865,0.7601490113668926
+Rout >14,FT-010,peer_reviewed_full_report,0.8674999999999999,0.7640610789335118
+Rout >14,FT-010,peer_reviewed_full_report,0.8700000000000001,0.7679907887161774
+Rout >14,FT-010,peer_reviewed_full_report,0.8725,0.7719382603260085
+Rout >14,FT-010,peer_reviewed_full_report,0.875,0.7759036144578313
+Rout >14,FT-010,peer_reviewed_full_report,0.8775,0.7798869729024778
+Rout >14,FT-010,peer_reviewed_full_report,0.8800000000000001,0.7838884585592564
+Rout >14,FT-010,peer_reviewed_full_report,0.8825000000000001,0.7879081954485905
+Rout >14,FT-010,peer_reviewed_full_report,0.885,0.7919463087248322
+Rout >14,FT-010,peer_reviewed_full_report,0.8875,0.7960029246892516
+Rout >14,FT-010,peer_reviewed_full_report,0.8900000000000001,0.8000781708032051
+Rout >14,FT-010,peer_reviewed_full_report,0.8925000000000001,0.8041721757014838
+Rout >14,FT-010,peer_reviewed_full_report,0.895,0.8082850692058505
+Rout >14,FT-010,peer_reviewed_full_report,0.8975,0.8124169823387611
+Rout >14,FT-010,peer_reviewed_full_report,0.9,0.8165680473372781
+Rout >18,FT-010,peer_reviewed_full_report,0.2,0.16888652104421953
+Rout >18,FT-010,peer_reviewed_full_report,0.2025,0.17108077315157214
+Rout >18,FT-010,peer_reviewed_full_report,0.20500000000000002,0.17327716079832553
+Rout >18,FT-010,peer_reviewed_full_report,0.20750000000000002,0.1754756871035941
+Rout >18,FT-010,peer_reviewed_full_report,0.21000000000000002,0.1776763551925695
+Rout >18,FT-010,peer_reviewed_full_report,0.21250000000000002,0.17987916819653532
+Rout >18,FT-010,peer_reviewed_full_report,0.21500000000000002,0.18208412925288203
+Rout >18,FT-010,peer_reviewed_full_report,0.21750000000000003,0.18429124150512202
+Rout >18,FT-010,peer_reviewed_full_report,0.22,0.18650050810290422
+Rout >18,FT-010,peer_reviewed_full_report,0.2225,0.18871193220202942
+Rout >18,FT-010,peer_reviewed_full_report,0.225,0.190925516964465
+Rout >18,FT-010,peer_reviewed_full_report,0.2275,0.1931412655583602
+Rout >18,FT-010,peer_reviewed_full_report,0.23,0.19535918115806117
+Rout >18,FT-010,peer_reviewed_full_report,0.2325,0.19757926694412611
+Rout >18,FT-010,peer_reviewed_full_report,0.23500000000000001,0.19980152610334054
+Rout >18,FT-010,peer_reviewed_full_report,0.23750000000000002,0.20202596182873248
+Rout >18,FT-010,peer_reviewed_full_report,0.24000000000000002,0.20425257731958765
+Rout >18,FT-010,peer_reviewed_full_report,0.24250000000000002,0.2064813757814651
+Rout >18,FT-010,peer_reviewed_full_report,0.245,0.20871236042621233
+Rout >18,FT-010,peer_reviewed_full_report,0.2475,0.21094553447198083
+Rout >18,FT-010,peer_reviewed_full_report,0.25,0.21318090114324148
+Rout >18,FT-010,peer_reviewed_full_report,0.2525,0.21541846367080006
+Rout >18,FT-010,peer_reviewed_full_report,0.255,0.2176582252918131
+Rout >18,FT-010,peer_reviewed_full_report,0.2575,0.21990018924980306
+Rout >18,FT-010,peer_reviewed_full_report,0.26,0.2221443587946742
+Rout >18,FT-010,peer_reviewed_full_report,0.2625,0.2243907371827283
+Rout >18,FT-010,peer_reviewed_full_report,0.265,0.2266393276766805
+Rout >18,FT-010,peer_reviewed_full_report,0.2675,0.22889013354567483
+Rout >18,FT-010,peer_reviewed_full_report,0.27,0.23114315806530022
+Rout >18,FT-010,peer_reviewed_full_report,0.2725,0.23339840451760638
+Rout >18,FT-010,peer_reviewed_full_report,0.275,0.23565587619111988
+Rout >18,FT-010,peer_reviewed_full_report,0.2775,0.2379155763808597
+Rout >18,FT-010,peer_reviewed_full_report,0.28,0.2401775083883538
+Rout >18,FT-010,peer_reviewed_full_report,0.28250000000000003,0.2424416755216547
+Rout >18,FT-010,peer_reviewed_full_report,0.28500000000000003,0.24470808109535616
+Rout >18,FT-010,peer_reviewed_full_report,0.28750000000000003,0.24697672843060878
+Rout >18,FT-010,peer_reviewed_full_report,0.29000000000000004,0.24924762085513658
+Rout >18,FT-010,peer_reviewed_full_report,0.2925,0.2515207617032531
+Rout >18,FT-010,peer_reviewed_full_report,0.29500000000000004,0.2537961543158781
+Rout >18,FT-010,peer_reviewed_full_report,0.2975,0.25607380204055313
+Rout >18,FT-010,peer_reviewed_full_report,0.30000000000000004,0.25835370823145887
+Rout >18,FT-010,peer_reviewed_full_report,0.3025,0.26063587624943096
+Rout >18,FT-010,peer_reviewed_full_report,0.305,0.2629203094619767
+Rout >18,FT-010,peer_reviewed_full_report,0.3075,0.2652070112432918
+Rout >18,FT-010,peer_reviewed_full_report,0.31,0.2674959849742767
+Rout >18,FT-010,peer_reviewed_full_report,0.3125,0.2697872340425532
+Rout >18,FT-010,peer_reviewed_full_report,0.315,0.2720807618424817
+Rout >18,FT-010,peer_reviewed_full_report,0.3175,0.2743765717751774
+Rout >18,FT-010,peer_reviewed_full_report,0.32,0.27667466724852724
+Rout >18,FT-010,peer_reviewed_full_report,0.3225,0.27897505167720676
+Rout >18,FT-010,peer_reviewed_full_report,0.325,0.28127772848269744
+Rout >18,FT-010,peer_reviewed_full_report,0.3275,0.28358270109330297
+Rout >18,FT-010,peer_reviewed_full_report,0.33,0.2858899729441667
+Rout >18,FT-010,peer_reviewed_full_report,0.3325,0.2881995474772885
+Rout >18,FT-010,peer_reviewed_full_report,0.335,0.2905114281415421
+Rout >18,FT-010,peer_reviewed_full_report,0.3375,0.29282561839269217
+Rout >18,FT-010,peer_reviewed_full_report,0.34,0.29514212169341153
+Rout >18,FT-010,peer_reviewed_full_report,0.3425,0.29746094151329805
+Rout >18,FT-010,peer_reviewed_full_report,0.345,0.2997820813288927
+Rout >18,FT-010,peer_reviewed_full_report,0.34750000000000003,0.3021055446236965
+Rout >18,FT-010,peer_reviewed_full_report,0.35,0.30443133488818774
+Rout >18,FT-010,peer_reviewed_full_report,0.35250000000000004,0.3067594556198399
+Rout >18,FT-010,peer_reviewed_full_report,0.355,0.3090899103231389
+Rout >18,FT-010,peer_reviewed_full_report,0.35750000000000004,0.31142270250960086
+Rout >18,FT-010,peer_reviewed_full_report,0.36,0.31375783569778953
+Rout >18,FT-010,peer_reviewed_full_report,0.36250000000000004,0.3160953134133343
+Rout >18,FT-010,peer_reviewed_full_report,0.365,0.31843513918894745
+Rout >18,FT-010,peer_reviewed_full_report,0.36750000000000005,0.3207773165644425
+Rout >18,FT-010,peer_reviewed_full_report,0.37,0.32312184908675173
+Rout >18,FT-010,peer_reviewed_full_report,0.37250000000000005,0.32546874030994405
+Rout >18,FT-010,peer_reviewed_full_report,0.375,0.32781799379524307
+Rout >18,FT-010,peer_reviewed_full_report,0.3775,0.3301696131110452
+Rout >18,FT-010,peer_reviewed_full_report,0.38,0.33252360183293767
+Rout >18,FT-010,peer_reviewed_full_report,0.3825,0.3348799635437165
+Rout >18,FT-010,peer_reviewed_full_report,0.385,0.33723870183340476
+Rout >18,FT-010,peer_reviewed_full_report,0.3875,0.3395998202992708
+Rout >18,FT-010,peer_reviewed_full_report,0.39,0.3419633225458468
+Rout >18,FT-010,peer_reviewed_full_report,0.3925,0.34432921218494666
+Rout >18,FT-010,peer_reviewed_full_report,0.395,0.3466974928356846
+Rout >18,FT-010,peer_reviewed_full_report,0.3975,0.3490681681244936
+Rout >18,FT-010,peer_reviewed_full_report,0.4,0.3514412416851442
+Rout >18,FT-010,peer_reviewed_full_report,0.4025,0.3538167171587625
+Rout >18,FT-010,peer_reviewed_full_report,0.405,0.35619459819384913
+Rout >18,FT-010,peer_reviewed_full_report,0.40750000000000003,0.3585748884462982
+Rout >18,FT-010,peer_reviewed_full_report,0.41000000000000003,0.3609575915794152
+Rout >18,FT-010,peer_reviewed_full_report,0.4125,0.36334271126393664
+Rout >18,FT-010,peer_reviewed_full_report,0.41500000000000004,0.3657302511780487
+Rout >18,FT-010,peer_reviewed_full_report,0.4175,0.36812021500740566
+Rout >18,FT-010,peer_reviewed_full_report,0.42000000000000004,0.3705126064451495
+Rout >18,FT-010,peer_reviewed_full_report,0.4225,0.3729074291919284
+Rout >18,FT-010,peer_reviewed_full_report,0.42500000000000004,0.3753046869559162
+Rout >18,FT-010,peer_reviewed_full_report,0.4275,0.37770438345283136
+Rout >18,FT-010,peer_reviewed_full_report,0.43000000000000005,0.3801065224059564
+Rout >18,FT-010,peer_reviewed_full_report,0.4325,0.3825111075461566
+Rout >18,FT-010,peer_reviewed_full_report,0.43500000000000005,0.3849181426118998
+Rout >18,FT-010,peer_reviewed_full_report,0.4375,0.38732763134927567
+Rout >18,FT-010,peer_reviewed_full_report,0.44,0.38973957751201527
+Rout >18,FT-010,peer_reviewed_full_report,0.4425,0.3921539848615101
+Rout >18,FT-010,peer_reviewed_full_report,0.445,0.3945708571668322
+Rout >18,FT-010,peer_reviewed_full_report,0.4475,0.3969901982047533
+Rout >18,FT-010,peer_reviewed_full_report,0.45,0.39941201175976476
+Rout >18,FT-010,peer_reviewed_full_report,0.4525,0.4018363016240975
+Rout >18,FT-010,peer_reviewed_full_report,0.455,0.404263071597741
+Rout >18,FT-010,peer_reviewed_full_report,0.4575,0.40669232548846407
+Rout >18,FT-010,peer_reviewed_full_report,0.46,0.4091240671118344
+Rout >18,FT-010,peer_reviewed_full_report,0.4625,0.41155830029123835
+Rout >18,FT-010,peer_reviewed_full_report,0.465,0.41399502885790124
+Rout >18,FT-010,peer_reviewed_full_report,0.4675,0.4164342566509073
+Rout >18,FT-010,peer_reviewed_full_report,0.47000000000000003,0.41887598751722016
+Rout >18,FT-010,peer_reviewed_full_report,0.47250000000000003,0.4213202253117023
+Rout >18,FT-010,peer_reviewed_full_report,0.47500000000000003,0.4237669738971365
+Rout >18,FT-010,peer_reviewed_full_report,0.47750000000000004,0.42621623714424495
+Rout >18,FT-010,peer_reviewed_full_report,0.48000000000000004,0.42866801893171064
+Rout >18,FT-010,peer_reviewed_full_report,0.48250000000000004,0.43112232314619736
+Rout >18,FT-010,peer_reviewed_full_report,0.48500000000000004,0.43357915368237016
+Rout >18,FT-010,peer_reviewed_full_report,0.48750000000000004,0.4360385144429162
+Rout >18,FT-010,peer_reviewed_full_report,0.49,0.4385004093385654
+Rout >18,FT-010,peer_reviewed_full_report,0.4925,0.44096484228811106
+Rout >18,FT-010,peer_reviewed_full_report,0.495,0.4434318172184308
+Rout >18,FT-010,peer_reviewed_full_report,0.4975,0.44590133806450705
+Rout >18,FT-010,peer_reviewed_full_report,0.5,0.44837340876944837
+Rout >18,FT-010,peer_reviewed_full_report,0.5025,0.45084803328451034
+Rout >18,FT-010,peer_reviewed_full_report,0.505,0.45332521556911665
+Rout >18,FT-010,peer_reviewed_full_report,0.5075000000000001,0.4558049595908799
+Rout >18,FT-010,peer_reviewed_full_report,0.51,0.45828726932562297
+Rout >18,FT-010,peer_reviewed_full_report,0.5125,0.46077214875740063
+Rout >18,FT-010,peer_reviewed_full_report,0.515,0.4632596018785205
+Rout >18,FT-010,peer_reviewed_full_report,0.5175000000000001,0.4657496326895642
+Rout >18,FT-010,peer_reviewed_full_report,0.52,0.4682422451994092
+Rout >18,FT-010,peer_reviewed_full_report,0.5225,0.4707374434252503
+Rout >18,FT-010,peer_reviewed_full_report,0.525,0.4732352313926211
+Rout >18,FT-010,peer_reviewed_full_report,0.5275000000000001,0.4757356131354155
+Rout >18,FT-010,peer_reviewed_full_report,0.53,0.4782385926959097
+Rout >18,FT-010,peer_reviewed_full_report,0.5325,0.48074417412478376
+Rout >18,FT-010,peer_reviewed_full_report,0.535,0.4832523614811438
+Rout >18,FT-010,peer_reviewed_full_report,0.5375000000000001,0.4857631588325435
+Rout >18,FT-010,peer_reviewed_full_report,0.54,0.48827657025500604
+Rout >18,FT-010,peer_reviewed_full_report,0.5425,0.4907925998330468
+Rout >18,FT-010,peer_reviewed_full_report,0.545,0.4933112516596948
+Rout >18,FT-010,peer_reviewed_full_report,0.5475000000000001,0.4958325298365153
+Rout >18,FT-010,peer_reviewed_full_report,0.55,0.4983564384736317
+Rout >18,FT-010,peer_reviewed_full_report,0.5525,0.5008829816897482
+Rout >18,FT-010,peer_reviewed_full_report,0.5549999999999999,0.5034121636121722
+Rout >18,FT-010,peer_reviewed_full_report,0.5575,0.5059439883768369
+Rout >18,FT-010,peer_reviewed_full_report,0.56,0.5084784601283228
+Rout >18,FT-010,peer_reviewed_full_report,0.5625,0.5110155830198818
+Rout >18,FT-010,peer_reviewed_full_report,0.565,0.5135553612134592
+Rout >18,FT-010,peer_reviewed_full_report,0.5675,0.5160977988797166
+Rout >18,FT-010,peer_reviewed_full_report,0.5700000000000001,0.518642900198054
+Rout >18,FT-010,peer_reviewed_full_report,0.5725,0.5211906693566337
+Rout >18,FT-010,peer_reviewed_full_report,0.575,0.5237411105524029
+Rout >18,FT-010,peer_reviewed_full_report,0.5775,0.5262942279911167
+Rout >18,FT-010,peer_reviewed_full_report,0.5800000000000001,0.5288500258873613
+Rout >18,FT-010,peer_reviewed_full_report,0.5825,0.5314085084645769
+Rout >18,FT-010,peer_reviewed_full_report,0.585,0.5339696799550814
+Rout >18,FT-010,peer_reviewed_full_report,0.5875,0.5365335446000936
+Rout >18,FT-010,peer_reviewed_full_report,0.5900000000000001,0.5391001066497565
+Rout >18,FT-010,peer_reviewed_full_report,0.5925,0.5416693703631607
+Rout >18,FT-010,peer_reviewed_full_report,0.595,0.5442413400083679
+Rout >18,FT-010,peer_reviewed_full_report,0.5975,0.5468160198624354
+Rout >18,FT-010,peer_reviewed_full_report,0.6000000000000001,0.5493934142114386
+Rout >18,FT-010,peer_reviewed_full_report,0.6025,0.5519735273504953
+Rout >18,FT-010,peer_reviewed_full_report,0.605,0.55455636358379
+Rout >18,FT-010,peer_reviewed_full_report,0.6075,0.5571419272245971
+Rout >18,FT-010,peer_reviewed_full_report,0.6100000000000001,0.559730222595305
+Rout >18,FT-010,peer_reviewed_full_report,0.6125,0.562321254027441
+Rout >18,FT-010,peer_reviewed_full_report,0.615,0.5649150258616943
+Rout >18,FT-010,peer_reviewed_full_report,0.6174999999999999,0.5675115424479411
+Rout >18,FT-010,peer_reviewed_full_report,0.62,0.5701108081452689
+Rout >18,FT-010,peer_reviewed_full_report,0.6225,0.572712827322
+Rout >18,FT-010,peer_reviewed_full_report,0.625,0.5753176043557169
+Rout >18,FT-010,peer_reviewed_full_report,0.6275,0.5779251436332866
+Rout >18,FT-010,peer_reviewed_full_report,0.63,0.5805354495508852
+Rout >18,FT-010,peer_reviewed_full_report,0.6325000000000001,0.5831485265140224
+Rout >18,FT-010,peer_reviewed_full_report,0.635,0.5857643789375664
+Rout >18,FT-010,peer_reviewed_full_report,0.6375,0.5883830112457692
+Rout >18,FT-010,peer_reviewed_full_report,0.64,0.5910044278722909
+Rout >18,FT-010,peer_reviewed_full_report,0.6425000000000001,0.593628633260225
+Rout >18,FT-010,peer_reviewed_full_report,0.645,0.5962556318621234
+Rout >18,FT-010,peer_reviewed_full_report,0.6475,0.5988854281400218
+Rout >18,FT-010,peer_reviewed_full_report,0.65,0.6015180265654649
+Rout >18,FT-010,peer_reviewed_full_report,0.6525000000000001,0.6041534316195318
+Rout >18,FT-010,peer_reviewed_full_report,0.655,0.6067916477928607
+Rout >18,FT-010,peer_reviewed_full_report,0.6575,0.6094326795856756
+Rout >18,FT-010,peer_reviewed_full_report,0.66,0.6120765315078112
+Rout >18,FT-010,peer_reviewed_full_report,0.6625000000000001,0.6147232080787385
+Rout >18,FT-010,peer_reviewed_full_report,0.665,0.6173727138275908
+Rout >18,FT-010,peer_reviewed_full_report,0.6675,0.6200250532931895
+Rout >18,FT-010,peer_reviewed_full_report,0.67,0.6226802310240699
+Rout >18,FT-010,peer_reviewed_full_report,0.6725000000000001,0.6253382515785076
+Rout >18,FT-010,peer_reviewed_full_report,0.675,0.6279991195245435
+Rout >18,FT-010,peer_reviewed_full_report,0.6775,0.6306628394400112
+Rout >18,FT-010,peer_reviewed_full_report,0.6799999999999999,0.6333294159125632
+Rout >18,FT-010,peer_reviewed_full_report,0.6825,0.6359988535396962
+Rout >18,FT-010,peer_reviewed_full_report,0.685,0.6386711569287784
+Rout >18,FT-010,peer_reviewed_full_report,0.6875,0.6413463306970756
+Rout >18,FT-010,peer_reviewed_full_report,0.69,0.644024379471778
+Rout >18,FT-010,peer_reviewed_full_report,0.6925,0.6467053078900272
+Rout >18,FT-010,peer_reviewed_full_report,0.6950000000000001,0.6493891205989419
+Rout >18,FT-010,peer_reviewed_full_report,0.6975,0.6520758222556458
+Rout >18,FT-010,peer_reviewed_full_report,0.7,0.6547654175272942
+Rout >18,FT-010,peer_reviewed_full_report,0.7025000000000001,0.6574579110911012
+Rout >18,FT-010,peer_reviewed_full_report,0.7050000000000001,0.6601533076343659
+Rout >18,FT-010,peer_reviewed_full_report,0.7075,0.6628516118545009
+Rout >18,FT-010,peer_reviewed_full_report,0.71,0.665552828459059
+Rout >18,FT-010,peer_reviewed_full_report,0.7124999999999999,0.6682569621657605
+Rout >18,FT-010,peer_reviewed_full_report,0.7150000000000001,0.6709640177025208
+Rout >18,FT-010,peer_reviewed_full_report,0.7175,0.6736739998074773
+Rout >18,FT-010,peer_reviewed_full_report,0.72,0.6763869132290186
+Rout >18,FT-010,peer_reviewed_full_report,0.7224999999999999,0.6791027627258104
+Rout >18,FT-010,peer_reviewed_full_report,0.7250000000000001,0.681821553066825
+Rout >18,FT-010,peer_reviewed_full_report,0.7275,0.6845432890313676
+Rout >18,FT-010,peer_reviewed_full_report,0.73,0.6872679754091058
+Rout >18,FT-010,peer_reviewed_full_report,0.7324999999999999,0.6899956170000966
+Rout >18,FT-010,peer_reviewed_full_report,0.7350000000000001,0.6927262186148153
+Rout >18,FT-010,peer_reviewed_full_report,0.7375,0.6954597850741829
+Rout >18,FT-010,peer_reviewed_full_report,0.74,0.6981963212095958
+Rout >18,FT-010,peer_reviewed_full_report,0.7424999999999999,0.700935831862953
+Rout >18,FT-010,peer_reviewed_full_report,0.7450000000000001,0.7036783218866858
+Rout >18,FT-010,peer_reviewed_full_report,0.7475,0.7064237961437846
+Rout >18,FT-010,peer_reviewed_full_report,0.75,0.70917225950783
+Rout >18,FT-010,peer_reviewed_full_report,0.7525,0.71192371686302
+Rout >18,FT-010,peer_reviewed_full_report,0.7550000000000001,0.7146781731042001
+Rout >18,FT-010,peer_reviewed_full_report,0.7575000000000001,0.7174356331368903
+Rout >18,FT-010,peer_reviewed_full_report,0.76,0.7201961018773168
+Rout >18,FT-010,peer_reviewed_full_report,0.7625,0.7229595842524394
+Rout >18,FT-010,peer_reviewed_full_report,0.7650000000000001,0.7257260851999822
+Rout >18,FT-010,peer_reviewed_full_report,0.7675000000000001,0.7284956096684608
+Rout >18,FT-010,peer_reviewed_full_report,0.77,0.7312681626172145
+Rout >18,FT-010,peer_reviewed_full_report,0.7725,0.734043749016434
+Rout >18,FT-010,peer_reviewed_full_report,0.7750000000000001,0.7368223738471922
+Rout >18,FT-010,peer_reviewed_full_report,0.7775000000000001,0.7396040421014728
+Rout >18,FT-010,peer_reviewed_full_report,0.78,0.7423887587822015
+Rout >18,FT-010,peer_reviewed_full_report,0.7825,0.7451765289032752
+Rout >18,FT-010,peer_reviewed_full_report,0.7849999999999999,0.7479673574895925
+Rout >18,FT-010,peer_reviewed_full_report,0.7875000000000001,0.7507612495770838
+Rout >18,FT-010,peer_reviewed_full_report,0.79,0.7535582102127404
+Rout >18,FT-010,peer_reviewed_full_report,0.7925,0.7563582444546475
+Rout >18,FT-010,peer_reviewed_full_report,0.7949999999999999,0.7591613573720121
+Rout >18,FT-010,peer_reviewed_full_report,0.7975000000000001,0.7619675540451954
+Rout >18,FT-010,peer_reviewed_full_report,0.8,0.764776839565742
+Rout >18,FT-010,peer_reviewed_full_report,0.8025,0.7675892190364118
+Rout >18,FT-010,peer_reviewed_full_report,0.8049999999999999,0.7704046975712108
+Rout >18,FT-010,peer_reviewed_full_report,0.8075000000000001,0.7732232802954214
+Rout >18,FT-010,peer_reviewed_full_report,0.81,0.7760449723456343
+Rout >18,FT-010,peer_reviewed_full_report,0.8125,0.7788697788697789
+Rout >18,FT-010,peer_reviewed_full_report,0.815,0.7816977050271554
+Rout >18,FT-010,peer_reviewed_full_report,0.8175000000000001,0.7845287559884659
+Rout >18,FT-010,peer_reviewed_full_report,0.8200000000000001,0.7873629369358454
+Rout >18,FT-010,peer_reviewed_full_report,0.8225,0.7902002530628944
+Rout >18,FT-010,peer_reviewed_full_report,0.825,0.7930407095747101
+Rout >18,FT-010,peer_reviewed_full_report,0.8275000000000001,0.7958843116879177
+Rout >18,FT-010,peer_reviewed_full_report,0.8300000000000001,0.7987310646307035
+Rout >18,FT-010,peer_reviewed_full_report,0.8325,0.8015809736428458
+Rout >18,FT-010,peer_reviewed_full_report,0.835,0.804434043975748
+Rout >18,FT-010,peer_reviewed_full_report,0.8375000000000001,0.8072902808924705
+Rout >18,FT-010,peer_reviewed_full_report,0.8400000000000001,0.810149689667762
+Rout >18,FT-010,peer_reviewed_full_report,0.8425,0.8130122755880943
+Rout >18,FT-010,peer_reviewed_full_report,0.845,0.8158780439516927
+Rout >18,FT-010,peer_reviewed_full_report,0.8474999999999999,0.8187470000685698
+Rout >18,FT-010,peer_reviewed_full_report,0.8500000000000001,0.8216191492605581
+Rout >18,FT-010,peer_reviewed_full_report,0.8525,0.8244944968613424
+Rout >18,FT-010,peer_reviewed_full_report,0.855,0.8273730482164934
+Rout >18,FT-010,peer_reviewed_full_report,0.8574999999999999,0.8302548086835011
+Rout >18,FT-010,peer_reviewed_full_report,0.8600000000000001,0.8331397836318075
+Rout >18,FT-010,peer_reviewed_full_report,0.8625,0.8360279784428392
+Rout >18,FT-010,peer_reviewed_full_report,0.865,0.8389193985100427
+Rout >18,FT-010,peer_reviewed_full_report,0.8674999999999999,0.8418140492389166
+Rout >18,FT-010,peer_reviewed_full_report,0.8700000000000001,0.844711936047046
+Rout >18,FT-010,peer_reviewed_full_report,0.8725,0.8476130643641351
+Rout >18,FT-010,peer_reviewed_full_report,0.875,0.850517439632043
+Rout >18,FT-010,peer_reviewed_full_report,0.8775,0.853425067304816
+Rout >18,FT-010,peer_reviewed_full_report,0.8800000000000001,0.8563359528487231
+Rout >18,FT-010,peer_reviewed_full_report,0.8825000000000001,0.8592501017422888
+Rout >18,FT-010,peer_reviewed_full_report,0.885,0.8621675194763287
+Rout >18,FT-010,peer_reviewed_full_report,0.8875,0.8650882115539839
+Rout >18,FT-010,peer_reviewed_full_report,0.8900000000000001,0.8680121834907548
+Rout >18,FT-010,peer_reviewed_full_report,0.8925000000000001,0.8709394408145361
+Rout >18,FT-010,peer_reviewed_full_report,0.895,0.8738699890656523
+Rout >18,FT-010,peer_reviewed_full_report,0.8975,0.8768038337968921
+Rout >18,FT-010,peer_reviewed_full_report,0.9,0.879740980573543
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.2,0.1658069270449521
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.2025,0.16796925402296736
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.20500000000000002,0.17013389399136886
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.20750000000000002,0.17230085066336984
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.21000000000000002,0.17447012776013587
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.21250000000000002,0.17664172901080633
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.21500000000000002,0.17881565815251546
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.21750000000000003,0.18099191893041408
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.22,0.18317051509769094
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.2225,0.18535145041559453
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.225,0.18753472865345436
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.2275,0.18972035358870296
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.23,0.19190832900689755
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.2325,0.194098658701742
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.23500000000000001,0.1962913464751086
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.23750000000000002,0.19848639613706007
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.24000000000000002,0.2006838115058719
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.24250000000000002,0.20288359640805403
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.245,0.20508575467837345
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.2475,0.20729029015987643
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.25,0.2094972067039106
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.2525,0.21170650817014774
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.255,0.213918198426606
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.2575,0.2161322813496727
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.26,0.2183487608241266
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.2625,0.22056764074316124
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.265,0.2227889250084071
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.2675,0.22501261752995497
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.27,0.22723872222637842
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.2725,0.22946724302475718
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.275,0.23169818386070026
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.2775,0.2339315486783687
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.28,0.23616734143049936
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.28250000000000003,0.2384055660784277
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.28500000000000003,0.24064622659211168
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.28750000000000003,0.24288932695015494
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.29000000000000004,0.24513487113983018
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.2925,0.24738286315710337
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.29500000000000004,0.24963330700665692
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.2975,0.2518862067019135
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.30000000000000004,0.2541415662650603
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.3025,0.2563993897270724
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.305,0.2586596811277373
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.3075,0.2609224445156789
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.31,0.26318768394838127
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.3125,0.2654554034922133
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.315,0.26772560722245303
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.3175,0.269998299223312
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.32,0.27227348358795944
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.3225,0.27455116441854743
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.325,0.2768313458262351
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.3275,0.2791140319312134
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.33,0.2813992268627303
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.3325,0.283686934759115
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.335,0.28597715976780363
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.3375,0.28826990604536396
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.34,0.29056517775752055
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.3425,0.29286297907917985
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.345,0.2951633141944561
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.34750000000000003,0.29746618729669577
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.35,0.299771602588504
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.35250000000000004,0.3020795642817696
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.355,0.30439007659769063
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.35750000000000004,0.3067031437668008
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.36,0.30901877002899436
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.36250000000000004,0.31133695963355285
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.365,0.31365771683917043
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.36750000000000005,0.3159810459139806
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.37,0.31830695113558155
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.37250000000000005,0.3206354367910634
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.375,0.3229665071770335
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.3775,0.32530016659964384
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.38,0.3276364193746168
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.3825,0.32997526982727227
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.385,0.3323167222925538
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.3875,0.33466078111505615
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.39,0.3370074506490514
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.3925,0.3393567352585164
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.395,0.3417086393171595
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.3975,0.34406316720844793
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4,0.3464203233256351
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4025,0.3487801120717876
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.405,0.3511425378598127
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.40750000000000003,0.3535076051124863
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.41000000000000003,0.35587531826247976
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4125,0.35824568175238825
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.41500000000000004,0.3606187000347585
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4175,0.3629943775721158
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.42000000000000004,0.3653727188369935
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4225,0.3677537283119596
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.42500000000000004,0.37013741048964593
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4275,0.37252376987277547
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.43000000000000005,0.3749128109741921
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4325,0.3773045383168874
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.43500000000000005,0.3796989564340304
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4375,0.38209606986899564
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.44,0.3844958831753923
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4425,0.3868984009170925
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.445,0.3893036276682608
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4475,0.39171156801338286
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.45,0.3941222265472947
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4525,0.3965356078752118
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.455,0.3989517166127587
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4575,0.4013705573859981
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.46,0.4037921348314607
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4625,0.4062164535961745
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.465,0.40864351833769486
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4675,0.41107333372413385
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.47000000000000003,0.413505904434191
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.47250000000000003,0.4159412351571823
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.47500000000000003,0.41837933059307114
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.47750000000000004,0.420820195452498
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.48000000000000004,0.42326383445681137
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.48250000000000004,0.4257102523380978
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.48500000000000004,0.42815945383921217
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.48750000000000004,0.43061144371380905
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.49,0.43306622672637285
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4925,0.4355238076522491
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.495,0.4379841912776751
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.4975,0.4404473823998111
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5,0.4429133858267717
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5025,0.4453822063776565
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.505,0.44785384888258245
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5075000000000001,0.45032831818271457
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.51,0.45280561913029754
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5125,0.45528575658868814
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.515,0.4577687354323865
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5175000000000001,0.4602545605470681
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.52,0.4627432368296156
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5225,0.4652347691881516
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.525,0.4677291625420709
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5275000000000001,0.47022642182207175
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.53,0.4727265519701895
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5325,0.47522955793982896
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.535,0.47773544469579715
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5375000000000001,0.4802442172143354
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.54,0.4827558804831532
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5425,0.48527043950146104
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.545,0.48778789928000316
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5475000000000001,0.4903082648410915
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.55,0.49283154121863804
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5525,0.4953577334581896
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5549999999999999,0.49788684661696103
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5575,0.5004188857638682
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.56,0.5029538559795625
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5625,0.5054917623564653
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.565,0.5080326099988011
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5675,0.5105764040226324
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5700000000000001,0.5131231495558934
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5725,0.5156728517384256
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.575,0.5182255157220108
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5775,0.5207811466704074
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5800000000000001,0.5233397497593841
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5825,0.525901330176755
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.585,0.5284658931224153
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5875,0.531033443808376
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5900000000000001,0.5336039874587989
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5925,0.5361775293100328
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.595,0.5387540746106484
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.5975,0.5413336286214742
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6000000000000001,0.5439161966156326
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6025,0.5465017838785754
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.605,0.5490903957081199
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6075,0.5516820374144855
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6100000000000001,0.5542767143203297
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6125,0.5568744317607839
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.615,0.5594751950834916
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6174999999999999,0.5620790096486435
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.62,0.5646858808290155
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6225,0.5672958140100043
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.625,0.5699088145896657
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6275,0.5725248879787515
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.63,0.5751440396007466
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6325000000000001,0.5777662748919068
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.635,0.5803915993012959
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6375,0.5830200182908241
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.64,0.5856515373352854
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6425000000000001,0.5882861619223961
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.645,0.590923897552832
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6475,0.5935647497402677
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.65,0.5962087240114146
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6525000000000001,0.5988558259060596
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.655,0.601506060977103
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6575,0.6041594347905987
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.66,0.6068159529257928
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6625000000000001,0.6094756209751612
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.665,0.6121384445444504
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6675,0.614804429252717
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.67,0.6174735807323667
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6725000000000001,0.6201459046291934
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.675,0.6228214066024196
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6775,0.6255000923247368
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6799999999999999,0.6281819674823451
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6825,0.6308670377749933
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.685,0.6335553089160193
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6875,0.6362467866323909
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.69,0.6389414766647461
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6925,0.6416393847674347
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6950000000000001,0.6443405167085583
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.6975,0.6470448782700118
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7,0.6497524752475247
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7025000000000001,0.6524633134507029
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7050000000000001,0.655177398703069
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7075,0.6578947368421053
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.71,0.6606153337192954
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7124999999999999,0.6633391952001654
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7150000000000001,0.6660663271643275
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7175,0.6687967355055202
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.72,0.671530426131653
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7224999999999999,0.6742674049648478
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7250000000000001,0.6770076779414818
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7275,0.6797512510122299
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.73,0.6824981301421091
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7324999999999999,0.6852483213105212
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7350000000000001,0.6880018305112952
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7375,0.6907586637527319
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.74,0.6935188270576474
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7424999999999999,0.6962823264634171
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7450000000000001,0.6990491680220193
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7475,0.7018193578000793
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.75,0.7045929018789144
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7525,0.7073698063545779
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7550000000000001,0.710150077337904
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7575000000000001,0.7129337209545522
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.76,0.7157207433450528
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7625,0.7185111506648518
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7650000000000001,0.7213049490843567
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7675000000000001,0.7241021447889805
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.77,0.7269027439791894
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7725,0.7297067528705472
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7750000000000001,0.7325141776937619
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7775000000000001,0.7353250246947312
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.78,0.7381393001345895
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7825,0.7409570102897544
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7849999999999999,0.7437781614519728
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7875000000000001,0.7466027599283683
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.79,0.7494308120414875
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7925,0.752262324129348
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7949999999999999,0.7550973025454851
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.7975000000000001,0.7579357536590003
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8,0.7607776838546069
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8025,0.7636230995326806
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8049999999999999,0.7664720071093055
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8075000000000001,0.7693244130163235
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.81,0.7721803237013813
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8125,0.775039745627981
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.815,0.777902685275527
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8175000000000001,0.7807691491393766
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8200000000000001,0.783639143730887
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8225,0.7865126755774666
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.825,0.7893897512226238
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8275000000000001,0.7922703772260167
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8300000000000001,0.7951545601635017
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8325,0.7980423066271861
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.835,0.8009336232254763
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8375000000000001,0.803828516583129
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8400000000000001,0.8067269933413012
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8425,0.8096290601576014
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.845,0.8125347237061412
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8474999999999999,0.8154439906775854
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8500000000000001,0.8183568677792042
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8525,0.8212733617349233
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.855,0.8241934792853777
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8574999999999999,0.8271172271879621
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8600000000000001,0.8300446122168841
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8625,0.832975641163215
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.865,0.8359103208349439
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8674999999999999,0.8388486580570298
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8700000000000001,0.8417906596714545
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8725,0.844736332537275
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.875,0.8476856835306782
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8775,0.8506387195450335
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8800000000000001,0.8535954474909468
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8825000000000001,0.856555874296314
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.885,0.8595200069063754
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8875,0.8624878522837706
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8900000000000001,0.8654594174085921
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8925000000000001,0.8684347092784398
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.895,0.8714137349084773
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.8975,0.8743965013314858
+Lumbar infusion test,FT-012,accepted_peer_reviewed_abstract_update,0.9,0.8773830155979203
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.2,0.14072912583300665
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.2025,0.14262032164244623
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.20500000000000002,0.14451502685295187
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.20750000000000002,0.14641325124193538
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.21000000000000002,0.14831500462316302
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.21250000000000002,0.15022029684692445
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.21500000000000002,0.152129137800203
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.21750000000000003,0.15404153740684665
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.22,0.1559575056277398
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.2225,0.15787705246097666
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.225,0.1598001879420347
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.2275,0.16172692214394976
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.23,0.1636572651774919
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.2325,0.16559122719134226
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.23500000000000001,0.1675288183722708
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.23750000000000002,0.1694700489453154
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.24000000000000002,0.17141492917396148
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.24250000000000002,0.173363469360323
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.245,0.17531567984532434
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.2475,0.1772715710088833
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.25,0.17923115327009484
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.2525,0.18119443708741645
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.255,0.18316143295885393
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.2575,0.18513215142214856
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.26,0.18710660305496532
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.2625,0.18908479847508214
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.265,0.1910667483405802
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.2675,0.19305246335003542
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.27,0.19504195424271079
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.2725,0.1970352317987502
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.275,0.199032306839373
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.2775,0.20103319022706978
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.28,0.20303789286579946
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.28250000000000003,0.20504642570118728
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.28500000000000003,0.20705879972072408
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.28750000000000003,0.20907502595396654
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.29000000000000004,0.21109511547273874
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.2925,0.21311907939133476
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.29500000000000004,0.2151469288667229
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.2975,0.21717867509874986
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.30000000000000004,0.2192143293303481
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.3025,0.22125390284774182
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.305,0.22329740698065684
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.3075,0.22534485310252966
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.31,0.2273962526307186
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.3125,0.22945161702671607
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.315,0.231510957796362
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.3175,0.23357428649005874
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.32,0.23564161470298653
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.3225,0.23771295407532114
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.325,0.2397883162924523
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.3275,0.24186771308520322
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.33,0.24395115623005167
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.3325,0.24603865754935253
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.335,0.24813022891156108
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.3375,0.25022588223145825
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.34,0.2523256294703766
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.3425,0.25442948263642806
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.345,0.25653745378473264
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.34750000000000003,0.25864955501764897
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.35,0.26076579848500564
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.35250000000000004,0.2628861963843345
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.355,0.26501076096110454
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.35750000000000004,0.26713950450895807
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.36,0.2692724393699475
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.36250000000000004,0.2714095779347741
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.365,0.2735509326430279
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.36750000000000005,0.27569651598342887
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.37,0.27784634049406987
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.37250000000000005,0.2800004187626611
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.375,0.2821587634267749
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.3775,0.28432138717409433
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.38,0.28648830274266035
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.3825,0.28865952292112274
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.385,0.29083506054899155
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.3875,0.29301492851689
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.39,0.2951991397668093
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.3925,0.2973877072923647
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.395,0.2995806441390529
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.3975,0.30177796340451174
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4,0.3039796782387807
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4025,0.306185801844563
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.405,0.3083963474774899
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.40750000000000003,0.310611328446386
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.41000000000000003,0.31283075811353633
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4125,0.31505464989495513
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.41500000000000004,0.31728301726065616
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4175,0.31951587373492435
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.42000000000000004,0.32175323289658997
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4225,0.3239951083793035
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.42500000000000004,0.3262415138718127
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4275,0.32849246311824093
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.43000000000000005,0.3307479699183682
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4325,0.3330080481279121
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.43500000000000005,0.33527271165881256
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4375,0.33754197447951645
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.44,0.3398158506152654
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4425,0.34209435414838457
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.445,0.3443774992185732
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4475,0.34666530002319695
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.45,0.34895777081758284
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4525,0.3512549259153148
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.455,0.3535567796885315
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4575,0.3558633465682265
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.46,0.3581746410445495
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4625,0.36049067766710996
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.465,0.36281147104528216
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4675,0.3651370358485127
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.47000000000000003,0.3674673868066293
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.47250000000000003,0.3698025387101521
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.47500000000000003,0.37214250641060614
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.47750000000000004,0.37448730482083664
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.48000000000000004,0.37683694891532543
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.48250000000000004,0.37919145373051016
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.48500000000000004,0.3815508343651046
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.48750000000000004,0.3839151059804217
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.49,0.38628428380069824
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4925,0.38865838311342155
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.495,0.39103741926965857
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.4975,0.3934214076843861
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5,0.39581036383682466
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5025,0.3982043032707727
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.505,0.4006032415949442
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5075000000000001,0.40300719448330785
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.51,0.40541617767542787
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5125,0.4078302069768085
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.515,0.41024929825923906
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5175000000000001,0.41267346746114164
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.52,0.4151027305879214
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5225,0.4175371037123188
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.525,0.41997660297476463
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5275000000000001,0.42242124458373537
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.53,0.42487104481611326
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5325,0.42732602001754744
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.535,0.42978618660281726
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5375000000000001,0.43225156105619805
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.54,0.4347221599318294
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5425,0.4371979998540858
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.545,0.43967909751794965
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5475000000000001,0.44216546968938586
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.55,0.4446571332057201
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5525,0.44715410497601876
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5549999999999999,0.44965640198147155
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5575,0.45216404127577614
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.56,0.4546770399855256
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5625,0.45719541531059854
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.565,0.45971918452455146
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5675,0.46224836497501376
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5700000000000001,0.4647829740840848
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5725,0.4673230293487343
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.575,0.4698685483412052
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5775,0.4724195487094183
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5800000000000001,0.47497604817738037
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5825,0.4775380645455946
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.585,0.4801056156914741
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5875,0.4826787195697571
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5900000000000001,0.4852573942129259
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5925,0.48784165773162774
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.595,0.4904315283150994
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.5975,0.49302702423159356
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6000000000000001,0.49562816382880814
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6025,0.49823496553431884
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.605,0.5008474478560146
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6075,0.503465629382535
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6100000000000001,0.506089528783712
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6125,0.5087191648110125
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.615,0.5113545562979861
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6174999999999999,0.5139957221607144
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.62,0.5166426813982637
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6225,0.5192954530931398
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.625,0.5219540564117475
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6275,0.5246185106048521
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.63,0.5272888350080432
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6325000000000001,0.5299650490422038
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.635,0.5326471722139794
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6375,0.5353352241162538
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.64,0.5380292244286249
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6425000000000001,0.5407291929178853
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.645,0.5434351494385055
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6475,0.5461471139331213
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.65,0.5488651064330237
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6525000000000001,0.5515891470586505
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.655,0.5543192560200846
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6575,0.5570554536175535
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.66,0.5597977602419317
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6625000000000001,0.5625461963752476
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.665,0.5653007825911938
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6675,0.5680615395556398
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.67,0.5708284880271496
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6725000000000001,0.573601648857501
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.675,0.5763810429922104
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6775,0.5791666914710591
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6799999999999999,0.5819586154286259
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6825,0.5847568360948192
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.685,0.5875613747954174
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6875,0.5903722529526086
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.69,0.5931894920855383
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6925,0.5960131138108566
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6950000000000001,0.5988431398432718
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.6975,0.6016795919961073
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7,0.6045224921818618
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7025000000000001,0.6073718624127739
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7050000000000001,0.6102277248013888
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7075,0.6130901015611327
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.71,0.6159590150068871
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7124999999999999,0.6188344875555689
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7150000000000001,0.6217165417267146
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7175,0.6246052001430675
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.72,0.6275004855311711
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7224999999999999,0.6304024207219632
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7250000000000001,0.6333110286513779
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7275,0.6362263323609479
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.73,0.6391483549984147
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7324999999999999,0.6420771198183405
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7350000000000001,0.6450126501827249
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7375,0.6479549695616262
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.74,0.6509041015337874
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7424999999999999,0.6538600697872652
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7450000000000001,0.6568228981200654
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7475,0.6597926104407797
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.75,0.6627692307692308
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7525,0.6657527832371188
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7550000000000001,0.6687432920886741
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7575000000000001,0.6717407816813127
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.76,0.6747452764862993
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7625,0.6777568010894122
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7650000000000001,0.6807753801916142
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7675000000000001,0.6838010386097273
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.77,0.6868338012771138
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7725,0.6898736932443609
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7750000000000001,0.6929207396799703
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7775000000000001,0.6959749658710519
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.78,0.6990363972240251
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7825,0.7021050592653224
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7849999999999999,0.7051809776420983
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7875000000000001,0.708264178122945
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.79,0.7113546865986105
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7925,0.7144525290827248
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7949999999999999,0.7175577317125292
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.7975000000000001,0.7206703207496115
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8,0.7237903225806451
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8025,0.7269177637181371
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8049999999999999,0.7300526708011771
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8075000000000001,0.7331950705961949
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.81,0.736344989997721
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8125,0.7395024560291554
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.815,0.7426674958435393
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8175000000000001,0.7458401367243341
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8200000000000001,0.7490204060862043
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8225,0.7522083314758087
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.825,0.7554039405725944
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8275000000000001,0.7586072611895993
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8300000000000001,0.7618183212742567
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8325,0.7650371489092107
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.835,0.7682637723131334
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8375000000000001,0.77149821984155
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8400000000000001,0.7747405199876685
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8425,0.7779907013832176
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.845,0.7812487927992892
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8474999999999999,0.784514823147187
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8500000000000001,0.7877888214792824
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8525,0.791070816989874
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.855,0.7943608390160583
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8574999999999999,0.7976589170386011
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8600000000000001,0.8009650806828207
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8625,0.8042793597194714
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.865,0.8076017840656411
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8674999999999999,0.8109323837856486
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8700000000000001,0.8142711890919521
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8725,0.8176182303460607
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.875,0.8209735380594576
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8775,0.824337142894525
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8800000000000001,0.827709075665479
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8825000000000001,0.83108936733931
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.885,0.8344780490367316
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8875,0.8378751520331349
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8900000000000001,0.8412807077595514
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8925000000000001,0.8446947478036211
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.895,0.8481173039105703
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.8975,0.8515484079841954
+CSF tap test,FT-012,accepted_peer_reviewed_abstract_update,0.9,0.854988092087854
+DESH,FT-032,peer_reviewed_full_report,0.2,0.13442622950819674
+DESH,FT-032,peer_reviewed_full_report,0.2025,0.13624615384615388
+DESH,FT-032,peer_reviewed_full_report,0.20500000000000002,0.13806981519507194
+DESH,FT-032,peer_reviewed_full_report,0.20750000000000002,0.13989722507708122
+DESH,FT-032,peer_reviewed_full_report,0.21000000000000002,0.14172839506172843
+DESH,FT-032,peer_reviewed_full_report,0.21250000000000002,0.14356333676622043
+DESH,FT-032,peer_reviewed_full_report,0.21500000000000002,0.14540206185567014
+DESH,FT-032,peer_reviewed_full_report,0.21750000000000003,0.1472445820433437
+DESH,FT-032,peer_reviewed_full_report,0.22,0.14909090909090914
+DESH,FT-032,peer_reviewed_full_report,0.2225,0.1509410548086867
+DESH,FT-032,peer_reviewed_full_report,0.225,0.15279503105590064
+DESH,FT-032,peer_reviewed_full_report,0.2275,0.15465284974093269
+DESH,FT-032,peer_reviewed_full_report,0.23,0.1565145228215768
+DESH,FT-032,peer_reviewed_full_report,0.2325,0.158380062305296
+DESH,FT-032,peer_reviewed_full_report,0.23500000000000001,0.1602494802494803
+DESH,FT-032,peer_reviewed_full_report,0.23750000000000002,0.16212278876170658
+DESH,FT-032,peer_reviewed_full_report,0.24000000000000002,0.16400000000000003
+DESH,FT-032,peer_reviewed_full_report,0.24250000000000002,0.16588112617309703
+DESH,FT-032,peer_reviewed_full_report,0.245,0.16776617954070985
+DESH,FT-032,peer_reviewed_full_report,0.2475,0.16965517241379313
+DESH,FT-032,peer_reviewed_full_report,0.25,0.17154811715481172
+DESH,FT-032,peer_reviewed_full_report,0.2525,0.1734450261780105
+DESH,FT-032,peer_reviewed_full_report,0.255,0.17534591194968555
+DESH,FT-032,peer_reviewed_full_report,0.2575,0.17725078698845753
+DESH,FT-032,peer_reviewed_full_report,0.26,0.17915966386554624
+DESH,FT-032,peer_reviewed_full_report,0.2625,0.18107255520504734
+DESH,FT-032,peer_reviewed_full_report,0.265,0.18298947368421056
+DESH,FT-032,peer_reviewed_full_report,0.2675,0.18491043203371976
+DESH,FT-032,peer_reviewed_full_report,0.27,0.18683544303797472
+DESH,FT-032,peer_reviewed_full_report,0.2725,0.1887645195353749
+DESH,FT-032,peer_reviewed_full_report,0.275,0.19069767441860472
+DESH,FT-032,peer_reviewed_full_report,0.2775,0.1926349206349207
+DESH,FT-032,peer_reviewed_full_report,0.28,0.19457627118644072
+DESH,FT-032,peer_reviewed_full_report,0.28250000000000003,0.19652173913043483
+DESH,FT-032,peer_reviewed_full_report,0.28500000000000003,0.19847133757961788
+DESH,FT-032,peer_reviewed_full_report,0.28750000000000003,0.20042507970244428
+DESH,FT-032,peer_reviewed_full_report,0.29000000000000004,0.2023829787234043
+DESH,FT-032,peer_reviewed_full_report,0.2925,0.2043450479233227
+DESH,FT-032,peer_reviewed_full_report,0.29500000000000004,0.2063113006396589
+DESH,FT-032,peer_reviewed_full_report,0.2975,0.20828175026680898
+DESH,FT-032,peer_reviewed_full_report,0.30000000000000004,0.21025641025641031
+DESH,FT-032,peer_reviewed_full_report,0.3025,0.2122352941176471
+DESH,FT-032,peer_reviewed_full_report,0.305,0.2142184154175589
+DESH,FT-032,peer_reviewed_full_report,0.3075,0.2162057877813505
+DESH,FT-032,peer_reviewed_full_report,0.31,0.21819742489270388
+DESH,FT-032,peer_reviewed_full_report,0.3125,0.2201933404940924
+DESH,FT-032,peer_reviewed_full_report,0.315,0.2221935483870968
+DESH,FT-032,peer_reviewed_full_report,0.3175,0.22419806243272342
+DESH,FT-032,peer_reviewed_full_report,0.32,0.22620689655172418
+DESH,FT-032,peer_reviewed_full_report,0.3225,0.22822006472491912
+DESH,FT-032,peer_reviewed_full_report,0.325,0.23023758099352054
+DESH,FT-032,peer_reviewed_full_report,0.3275,0.23225945945945947
+DESH,FT-032,peer_reviewed_full_report,0.33,0.23428571428571435
+DESH,FT-032,peer_reviewed_full_report,0.3325,0.23631635969664141
+DESH,FT-032,peer_reviewed_full_report,0.335,0.23835140997830806
+DESH,FT-032,peer_reviewed_full_report,0.3375,0.24039087947882742
+DESH,FT-032,peer_reviewed_full_report,0.34,0.24243478260869572
+DESH,FT-032,peer_reviewed_full_report,0.3425,0.24448313384113168
+DESH,FT-032,peer_reviewed_full_report,0.345,0.2465359477124183
+DESH,FT-032,peer_reviewed_full_report,0.34750000000000003,0.24859323882224652
+DESH,FT-032,peer_reviewed_full_report,0.35,0.2506550218340612
+DESH,FT-032,peer_reviewed_full_report,0.35250000000000004,0.25272131147540994
+DESH,FT-032,peer_reviewed_full_report,0.355,0.25479212253829325
+DESH,FT-032,peer_reviewed_full_report,0.35750000000000004,0.2568674698795182
+DESH,FT-032,peer_reviewed_full_report,0.36,0.25894736842105265
+DESH,FT-032,peer_reviewed_full_report,0.36250000000000004,0.26103183315038425
+DESH,FT-032,peer_reviewed_full_report,0.365,0.26312087912087917
+DESH,FT-032,peer_reviewed_full_report,0.36750000000000005,0.26521452145214525
+DESH,FT-032,peer_reviewed_full_report,0.37,0.2673127753303965
+DESH,FT-032,peer_reviewed_full_report,0.37250000000000005,0.2694156560088204
+DESH,FT-032,peer_reviewed_full_report,0.375,0.2715231788079471
+DESH,FT-032,peer_reviewed_full_report,0.3775,0.27363535911602216
+DESH,FT-032,peer_reviewed_full_report,0.38,0.2757522123893805
+DESH,FT-032,peer_reviewed_full_report,0.3825,0.277873754152824
+DESH,FT-032,peer_reviewed_full_report,0.385,0.28
+DESH,FT-032,peer_reviewed_full_report,0.3875,0.2821309655937847
+DESH,FT-032,peer_reviewed_full_report,0.39,0.2842666666666667
+DESH,FT-032,peer_reviewed_full_report,0.3925,0.28640711902113464
+DESH,FT-032,peer_reviewed_full_report,0.395,0.28855233853006684
+DESH,FT-032,peer_reviewed_full_report,0.3975,0.2907023411371238
+DESH,FT-032,peer_reviewed_full_report,0.4,0.29285714285714287
+DESH,FT-032,peer_reviewed_full_report,0.4025,0.29501675977653635
+DESH,FT-032,peer_reviewed_full_report,0.405,0.2971812080536913
+DESH,FT-032,peer_reviewed_full_report,0.40750000000000003,0.2993505039193729
+DESH,FT-032,peer_reviewed_full_report,0.41000000000000003,0.3015246636771301
+DESH,FT-032,peer_reviewed_full_report,0.4125,0.3037037037037037
+DESH,FT-032,peer_reviewed_full_report,0.41500000000000004,0.3058876404494383
+DESH,FT-032,peer_reviewed_full_report,0.4175,0.30807649043869517
+DESH,FT-032,peer_reviewed_full_report,0.42000000000000004,0.3102702702702703
+DESH,FT-032,peer_reviewed_full_report,0.4225,0.3124689966178129
+DESH,FT-032,peer_reviewed_full_report,0.42500000000000004,0.3146726862302484
+DESH,FT-032,peer_reviewed_full_report,0.4275,0.31688135593220346
+DESH,FT-032,peer_reviewed_full_report,0.43000000000000005,0.31909502262443445
+DESH,FT-032,peer_reviewed_full_report,0.4325,0.3213137032842583
+DESH,FT-032,peer_reviewed_full_report,0.43500000000000005,0.3235374149659865
+DESH,FT-032,peer_reviewed_full_report,0.4375,0.32576617480136216
+DESH,FT-032,peer_reviewed_full_report,0.44,0.32800000000000007
+DESH,FT-032,peer_reviewed_full_report,0.4425,0.3302389078498294
+DESH,FT-032,peer_reviewed_full_report,0.445,0.33248291571753996
+DESH,FT-032,peer_reviewed_full_report,0.4475,0.3347320410490308
+DESH,FT-032,peer_reviewed_full_report,0.45,0.336986301369863
+DESH,FT-032,peer_reviewed_full_report,0.4525,0.3392457142857144
+DESH,FT-032,peer_reviewed_full_report,0.455,0.34151029748283757
+DESH,FT-032,peer_reviewed_full_report,0.4575,0.34378006872852235
+DESH,FT-032,peer_reviewed_full_report,0.46,0.34605504587155966
+DESH,FT-032,peer_reviewed_full_report,0.4625,0.3483352468427096
+DESH,FT-032,peer_reviewed_full_report,0.465,0.35062068965517246
+DESH,FT-032,peer_reviewed_full_report,0.4675,0.35291139240506336
+DESH,FT-032,peer_reviewed_full_report,0.47000000000000003,0.35520737327188945
+DESH,FT-032,peer_reviewed_full_report,0.47250000000000003,0.3575086505190312
+DESH,FT-032,peer_reviewed_full_report,0.47500000000000003,0.35981524249422636
+DESH,FT-032,peer_reviewed_full_report,0.47750000000000004,0.36212716763005787
+DESH,FT-032,peer_reviewed_full_report,0.48000000000000004,0.3644444444444445
+DESH,FT-032,peer_reviewed_full_report,0.48250000000000004,0.3667670915411357
+DESH,FT-032,peer_reviewed_full_report,0.48500000000000004,0.3690951276102089
+DESH,FT-032,peer_reviewed_full_report,0.48750000000000004,0.3714285714285715
+DESH,FT-032,peer_reviewed_full_report,0.49,0.3737674418604651
+DESH,FT-032,peer_reviewed_full_report,0.4925,0.37611175785797435
+DESH,FT-032,peer_reviewed_full_report,0.495,0.3784615384615385
+DESH,FT-032,peer_reviewed_full_report,0.4975,0.38081680280046676
+DESH,FT-032,peer_reviewed_full_report,0.5,0.383177570093458
+DESH,FT-032,peer_reviewed_full_report,0.5025,0.38554385964912286
+DESH,FT-032,peer_reviewed_full_report,0.505,0.38791569086651057
+DESH,FT-032,peer_reviewed_full_report,0.5075000000000001,0.390293083235639
+DESH,FT-032,peer_reviewed_full_report,0.51,0.39267605633802816
+DESH,FT-032,peer_reviewed_full_report,0.5125,0.3950646298472385
+DESH,FT-032,peer_reviewed_full_report,0.515,0.3974588235294118
+DESH,FT-032,peer_reviewed_full_report,0.5175000000000001,0.39985865724381636
+DESH,FT-032,peer_reviewed_full_report,0.52,0.4022641509433963
+DESH,FT-032,peer_reviewed_full_report,0.5225,0.4046753246753247
+DESH,FT-032,peer_reviewed_full_report,0.525,0.40709219858156037
+DESH,FT-032,peer_reviewed_full_report,0.5275000000000001,0.4095147928994084
+DESH,FT-032,peer_reviewed_full_report,0.53,0.4119431279620854
+DESH,FT-032,peer_reviewed_full_report,0.5325,0.41437722419928824
+DESH,FT-032,peer_reviewed_full_report,0.535,0.4168171021377673
+DESH,FT-032,peer_reviewed_full_report,0.5375000000000001,0.4192627824019026
+DESH,FT-032,peer_reviewed_full_report,0.54,0.4217142857142858
+DESH,FT-032,peer_reviewed_full_report,0.5425,0.42417163289630516
+DESH,FT-032,peer_reviewed_full_report,0.545,0.42663484486873515
+DESH,FT-032,peer_reviewed_full_report,0.5475000000000001,0.42910394265232993
+DESH,FT-032,peer_reviewed_full_report,0.55,0.43157894736842123
+DESH,FT-032,peer_reviewed_full_report,0.5525,0.43405988023952097
+DESH,FT-032,peer_reviewed_full_report,0.5549999999999999,0.43654676258992803
+DESH,FT-032,peer_reviewed_full_report,0.5575,0.4390396158463386
+DESH,FT-032,peer_reviewed_full_report,0.56,0.44153846153846166
+DESH,FT-032,peer_reviewed_full_report,0.5625,0.444043321299639
+DESH,FT-032,peer_reviewed_full_report,0.565,0.4465542168674699
+DESH,FT-032,peer_reviewed_full_report,0.5675,0.44907117008443914
+DESH,FT-032,peer_reviewed_full_report,0.5700000000000001,0.45159420289855084
+DESH,FT-032,peer_reviewed_full_report,0.5725,0.45412333736396626
+DESH,FT-032,peer_reviewed_full_report,0.575,0.4566585956416465
+DESH,FT-032,peer_reviewed_full_report,0.5775,0.45920000000000005
+DESH,FT-032,peer_reviewed_full_report,0.5800000000000001,0.46174757281553414
+DESH,FT-032,peer_reviewed_full_report,0.5825,0.4643013365735116
+DESH,FT-032,peer_reviewed_full_report,0.585,0.4668613138686131
+DESH,FT-032,peer_reviewed_full_report,0.5875,0.469427527405603
+DESH,FT-032,peer_reviewed_full_report,0.5900000000000001,0.4720000000000001
+DESH,FT-032,peer_reviewed_full_report,0.5925,0.47457875457875465
+DESH,FT-032,peer_reviewed_full_report,0.595,0.4771638141809291
+DESH,FT-032,peer_reviewed_full_report,0.5975,0.47975520195838445
+DESH,FT-032,peer_reviewed_full_report,0.6000000000000001,0.4823529411764707
+DESH,FT-032,peer_reviewed_full_report,0.6025,0.48495705521472404
+DESH,FT-032,peer_reviewed_full_report,0.605,0.48756756756756764
+DESH,FT-032,peer_reviewed_full_report,0.6075,0.49018450184501855
+DESH,FT-032,peer_reviewed_full_report,0.6100000000000001,0.4928078817733992
+DESH,FT-032,peer_reviewed_full_report,0.6125,0.4954377311960544
+DESH,FT-032,peer_reviewed_full_report,0.615,0.4980740740740741
+DESH,FT-032,peer_reviewed_full_report,0.6174999999999999,0.500716934487021
+DESH,FT-032,peer_reviewed_full_report,0.62,0.5033663366336634
+DESH,FT-032,peer_reviewed_full_report,0.6225,0.5060223048327138
+DESH,FT-032,peer_reviewed_full_report,0.625,0.5086848635235733
+DESH,FT-032,peer_reviewed_full_report,0.6275,0.5113540372670807
+DESH,FT-032,peer_reviewed_full_report,0.63,0.5140298507462687
+DESH,FT-032,peer_reviewed_full_report,0.6325000000000001,0.5167123287671235
+DESH,FT-032,peer_reviewed_full_report,0.635,0.5194014962593516
+DESH,FT-032,peer_reviewed_full_report,0.6375,0.5220973782771536
+DESH,FT-032,peer_reviewed_full_report,0.64,0.5248
+DESH,FT-032,peer_reviewed_full_report,0.6425000000000001,0.5275093867334169
+DESH,FT-032,peer_reviewed_full_report,0.645,0.5302255639097745
+DESH,FT-032,peer_reviewed_full_report,0.6475,0.5329485570890841
+DESH,FT-032,peer_reviewed_full_report,0.65,0.5356783919597992
+DESH,FT-032,peer_reviewed_full_report,0.6525000000000001,0.5384150943396228
+DESH,FT-032,peer_reviewed_full_report,0.655,0.5411586901763225
+DESH,FT-032,peer_reviewed_full_report,0.6575,0.5439092055485497
+DESH,FT-032,peer_reviewed_full_report,0.66,0.5466666666666667
+DESH,FT-032,peer_reviewed_full_report,0.6625000000000001,0.5494310998735779
+DESH,FT-032,peer_reviewed_full_report,0.665,0.5522025316455698
+DESH,FT-032,peer_reviewed_full_report,0.6675,0.5549809885931559
+DESH,FT-032,peer_reviewed_full_report,0.67,0.557766497461929
+DESH,FT-032,peer_reviewed_full_report,0.6725000000000001,0.5605590851334182
+DESH,FT-032,peer_reviewed_full_report,0.675,0.5633587786259543
+DESH,FT-032,peer_reviewed_full_report,0.6775,0.5661656050955414
+DESH,FT-032,peer_reviewed_full_report,0.6799999999999999,0.5689795918367346
+DESH,FT-032,peer_reviewed_full_report,0.6825,0.5718007662835249
+DESH,FT-032,peer_reviewed_full_report,0.685,0.5746291560102302
+DESH,FT-032,peer_reviewed_full_report,0.6875,0.5774647887323944
+DESH,FT-032,peer_reviewed_full_report,0.69,0.5803076923076922
+DESH,FT-032,peer_reviewed_full_report,0.6925,0.5831578947368421
+DESH,FT-032,peer_reviewed_full_report,0.6950000000000001,0.5860154241645245
+DESH,FT-032,peer_reviewed_full_report,0.6975,0.588880308880309
+DESH,FT-032,peer_reviewed_full_report,0.7,0.5917525773195876
+DESH,FT-032,peer_reviewed_full_report,0.7025000000000001,0.5946322580645164
+DESH,FT-032,peer_reviewed_full_report,0.7050000000000001,0.5975193798449614
+DESH,FT-032,peer_reviewed_full_report,0.7075,0.6004139715394567
+DESH,FT-032,peer_reviewed_full_report,0.71,0.6033160621761658
+DESH,FT-032,peer_reviewed_full_report,0.7124999999999999,0.6062256809338521
+DESH,FT-032,peer_reviewed_full_report,0.7150000000000001,0.6091428571428573
+DESH,FT-032,peer_reviewed_full_report,0.7175,0.612067620286086
+DESH,FT-032,peer_reviewed_full_report,0.72,0.6150000000000001
+DESH,FT-032,peer_reviewed_full_report,0.7224999999999999,0.6179400260756193
+DESH,FT-032,peer_reviewed_full_report,0.7250000000000001,0.6208877284595301
+DESH,FT-032,peer_reviewed_full_report,0.7275,0.6238431372549021
+DESH,FT-032,peer_reviewed_full_report,0.73,0.6268062827225132
+DESH,FT-032,peer_reviewed_full_report,0.7324999999999999,0.6297771952817824
+DESH,FT-032,peer_reviewed_full_report,0.7350000000000001,0.6327559055118112
+DESH,FT-032,peer_reviewed_full_report,0.7375,0.6357424441524312
+DESH,FT-032,peer_reviewed_full_report,0.74,0.6387368421052632
+DESH,FT-032,peer_reviewed_full_report,0.7424999999999999,0.6417391304347826
+DESH,FT-032,peer_reviewed_full_report,0.7450000000000001,0.6447493403693934
+DESH,FT-032,peer_reviewed_full_report,0.7475,0.64776750330251
+DESH,FT-032,peer_reviewed_full_report,0.75,0.6507936507936508
+DESH,FT-032,peer_reviewed_full_report,0.7525,0.6538278145695363
+DESH,FT-032,peer_reviewed_full_report,0.7550000000000001,0.6568700265251992
+DESH,FT-032,peer_reviewed_full_report,0.7575000000000001,0.6599203187250997
+DESH,FT-032,peer_reviewed_full_report,0.76,0.6629787234042553
+DESH,FT-032,peer_reviewed_full_report,0.7625,0.6660452729693741
+DESH,FT-032,peer_reviewed_full_report,0.7650000000000001,0.6691200000000002
+DESH,FT-032,peer_reviewed_full_report,0.7675000000000001,0.6722029372496664
+DESH,FT-032,peer_reviewed_full_report,0.77,0.6752941176470588
+DESH,FT-032,peer_reviewed_full_report,0.7725,0.6783935742971887
+DESH,FT-032,peer_reviewed_full_report,0.7750000000000001,0.6815013404825739
+DESH,FT-032,peer_reviewed_full_report,0.7775000000000001,0.6846174496644296
+DESH,FT-032,peer_reviewed_full_report,0.78,0.687741935483871
+DESH,FT-032,peer_reviewed_full_report,0.7825,0.6908748317631225
+DESH,FT-032,peer_reviewed_full_report,0.7849999999999999,0.6940161725067385
+DESH,FT-032,peer_reviewed_full_report,0.7875000000000001,0.6971659919028341
+DESH,FT-032,peer_reviewed_full_report,0.79,0.7003243243243243
+DESH,FT-032,peer_reviewed_full_report,0.7925,0.7034912043301759
+DESH,FT-032,peer_reviewed_full_report,0.7949999999999999,0.7066666666666666
+DESH,FT-032,peer_reviewed_full_report,0.7975000000000001,0.7098507462686569
+DESH,FT-032,peer_reviewed_full_report,0.8,0.7130434782608697
+DESH,FT-032,peer_reviewed_full_report,0.8025,0.7162448979591837
+DESH,FT-032,peer_reviewed_full_report,0.8049999999999999,0.7194550408719346
+DESH,FT-032,peer_reviewed_full_report,0.8075000000000001,0.722673942701228
+DESH,FT-032,peer_reviewed_full_report,0.81,0.7259016393442623
+DESH,FT-032,peer_reviewed_full_report,0.8125,0.7291381668946648
+DESH,FT-032,peer_reviewed_full_report,0.815,0.7323835616438356
+DESH,FT-032,peer_reviewed_full_report,0.8175000000000001,0.7356378600823047
+DESH,FT-032,peer_reviewed_full_report,0.8200000000000001,0.738901098901099
+DESH,FT-032,peer_reviewed_full_report,0.8225,0.7421733149931224
+DESH,FT-032,peer_reviewed_full_report,0.825,0.7454545454545454
+DESH,FT-032,peer_reviewed_full_report,0.8275000000000001,0.7487448275862071
+DESH,FT-032,peer_reviewed_full_report,0.8300000000000001,0.7520441988950277
+DESH,FT-032,peer_reviewed_full_report,0.8325,0.7553526970954357
+DESH,FT-032,peer_reviewed_full_report,0.835,0.7586703601108034
+DESH,FT-032,peer_reviewed_full_report,0.8375000000000001,0.7619972260748963
+DESH,FT-032,peer_reviewed_full_report,0.8400000000000001,0.7653333333333335
+DESH,FT-032,peer_reviewed_full_report,0.8425,0.7686787204450627
+DESH,FT-032,peer_reviewed_full_report,0.845,0.772033426183844
+DESH,FT-032,peer_reviewed_full_report,0.8474999999999999,0.7753974895397489
+DESH,FT-032,peer_reviewed_full_report,0.8500000000000001,0.7787709497206705
+DESH,FT-032,peer_reviewed_full_report,0.8525,0.7821538461538463
+DESH,FT-032,peer_reviewed_full_report,0.855,0.785546218487395
+DESH,FT-032,peer_reviewed_full_report,0.8574999999999999,0.7889481065918653
+DESH,FT-032,peer_reviewed_full_report,0.8600000000000001,0.792359550561798
+DESH,FT-032,peer_reviewed_full_report,0.8625,0.7957805907172997
+DESH,FT-032,peer_reviewed_full_report,0.865,0.7992112676056338
+DESH,FT-032,peer_reviewed_full_report,0.8674999999999999,0.8026516220028208
+DESH,FT-032,peer_reviewed_full_report,0.8700000000000001,0.8061016949152544
+DESH,FT-032,peer_reviewed_full_report,0.8725,0.8095615275813297
+DESH,FT-032,peer_reviewed_full_report,0.875,0.8130311614730878
+DESH,FT-032,peer_reviewed_full_report,0.8775,0.8165106382978723
+DESH,FT-032,peer_reviewed_full_report,0.8800000000000001,0.8200000000000002
+DESH,FT-032,peer_reviewed_full_report,0.8825000000000001,0.8234992887624467
+DESH,FT-032,peer_reviewed_full_report,0.885,0.8270085470085471
+DESH,FT-032,peer_reviewed_full_report,0.8875,0.830527817403709
+DESH,FT-032,peer_reviewed_full_report,0.8900000000000001,0.834057142857143
+DESH,FT-032,peer_reviewed_full_report,0.8925000000000001,0.8375965665236053
+DESH,FT-032,peer_reviewed_full_report,0.895,0.8411461318051576
+DESH,FT-032,peer_reviewed_full_report,0.8975,0.8447058823529411
+DESH,FT-032,peer_reviewed_full_report,0.9,0.8482758620689655
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.2,0.01734104046242771
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.2025,0.017608057679069564
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.20500000000000002,0.017876607804665323
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.20750000000000002,0.018146704077542507
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.21000000000000002,0.018418359888905094
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.21250000000000002,0.01869158878504669
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.21500000000000002,0.018966404469602256
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.21750000000000003,0.019242820805839164
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.22,0.019520851818988424
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.2225,0.01980051169861689
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.225,0.020081814801041237
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.2275,0.02036477565178467
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.23,0.020649408948077163
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.2325,0.020935729561400173
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.23500000000000001,0.021223752540076725
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.23750000000000002,0.021513493111907863
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.24000000000000002,0.021804966686856404
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.24250000000000002,0.022098188859778975
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.245,0.02239317541320736
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.2475,0.02268994232018025
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.25,0.022988505747126388
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.2525,0.023288882056800225
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.255,0.023591087811271245
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.2575,0.02389513977496805
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.26,0.02420105491777842
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.2625,0.02450885041820652
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.265,0.024818543666588568
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.2675,0.025130152268368056
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.27,0.02544369404743202
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.2725,0.02575918704950958
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.275,0.02607664954563408
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.2775,0.02639610003567035
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.28,0.026717557251908344
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.28250000000000003,0.027041040162724787
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.28500000000000003,0.027366567976314263
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.28750000000000003,0.02769416014449122
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.29000000000000004,0.02802383636656461
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.2925,0.028355616593286684
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.29500000000000004,0.02868952103087765
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.2975,0.029025570145127785
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.30000000000000004,0.029363784665579064
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.3025,0.02970418558978759
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.305,0.030046794187669253
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.3075,0.03039163200593001
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.31,0.030738720872582982
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.3125,0.031088082901554338
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.315,0.03143974049737996
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.3175,0.03179371635999493
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.32,0.03215003348961816
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.3225,0.03250871519173415
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.325,0.03286978508217439
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.3275,0.03323326709230047
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.33,0.03359918547429147
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.3325,0.03396756480653805
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.335,0.03433842999914574
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.3375,0.03471180629954996
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.34,0.03508771929824554
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.3425,0.03546619493463339
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.345,0.0358472595029872
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.34750000000000003,0.03623093965854287
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.35,0.03661726242371396
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.35250000000000004,0.03700625519443587
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.355,0.03739794574664201
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.35750000000000004,0.03779236224287532
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.36,0.03818953323903811
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.36250000000000004,0.03858948769128402
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.365,0.0389922549630552
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.36750000000000005,0.03939786483226865
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.37,0.03980634749865511
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.37250000000000005,0.04021773359125459
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.375,0.04063205417607215
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.3775,0.04104934076389825
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.38,0.041469625318297475
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.3825,0.04189294026377028
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.385,0.0423193184940917
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.3875,0.042748793380831894
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.39,0.04318139878206302
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.3925,0.04361716905125704
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.395,0.04405613904637969
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.3975,0.044498344139185506
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4,0.04494382022471902
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4025,0.04539260373102759
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.405,0.04584473162909151
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.40750000000000003,0.04630024144297676
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.41000000000000003,0.0467591712602166
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4125,0.04722155974242775
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.41500000000000004,0.04768744613616768
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4175,0.04815687028403892
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.42000000000000004,0.04862987263604776
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4225,0.049106494261223196
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.42500000000000004,0.04958677685950404
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4275,0.05007076277390062
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.43000000000000005,0.050558495002939345
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4325,0.05105001721339684
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.43500000000000005,0.05154537375333258
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4375,0.052044609665427406
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.44,0.05254777070063684
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4425,0.053054903332167544
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.445,0.05356605476978624
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4475,0.0540812729744699
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.45,0.05460060667340737
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4525,0.05512410537536154
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.455,0.055651819386402915
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4575,0.05618379982602454
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.46,0.056720098643649706
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4625,0.05726076863554284
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.465,0.057805863462136016
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4675,0.058355437665782384
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.47000000000000003,0.05890954668894912
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.47250000000000003,0.05946824689286265
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.47500000000000003,0.06003159557661916
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.47750000000000004,0.060599650996774244
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.48000000000000004,0.06117247238742555
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.48250000000000004,0.06175011998080296
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.48500000000000004,0.0623326550283816
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.48750000000000004,0.06292013982253283
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.49,0.0635126377187296
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4925,0.0641102131583228
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.495,0.0647129316919053
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.4975,0.06532086000328233
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5,0.06593406593406581
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5025,0.06655261850891216
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.505,0.06717658796142321
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5075000000000001,0.06780604576073027
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.51,0.06844106463878313
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5125,0.06908171861836547
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.515,0.06972808304185928
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5175000000000001,0.07038023460078188
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.52,0.07103825136612009
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5225,0.07170221281948637
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.525,0.07237219988512336
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5275000000000001,0.07304829496278331
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.53,0.07373058196151157
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5325,0.07441914633436193
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.535,0.07511407511407496
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5375000000000001,0.07581545694975009
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.54,0.07652338214454402
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5425,0.07723794269442946
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.545,0.07795923232804848
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5475000000000001,0.07868734654769734
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.55,0.07942238267148
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5525,0.08016443987666992
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5549999999999999,0.08091361924432007
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5575,0.08167002380516372
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.56,0.0824337585868497
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5625,0.0832049306625576
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.565,0.08398364920104032
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5675,0.08477002551814261
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5700000000000001,0.08556417312984722
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5725,0.08636620780690159
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.575,0.08717624763108006
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5775,0.08799441305313932
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5800000000000001,0.08882082695252665
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5825,0.08965561469890318
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.585,0.09049890421554706
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5875,0.09135082604470342
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5900000000000001,0.09221151341495165
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5925,0.09308110231066292
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.595,0.09395973154362397
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.5975,0.09484754282690636
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6000000000000001,0.09574468085106368
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6025,0.09665129336274296
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.605,0.0975675312458001
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6075,0.09849354860501232
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6100000000000001,0.09942950285248557
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6125,0.10037555479685882
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.615,0.10133186873541103
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6174999999999999,0.10229861254918181
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.62,0.10327595780122134
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6225,0.10426407983809041
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.625,0.10526315789473664
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6275,0.10627337520287888
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.63,0.10729491910303697
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6325000000000001,0.10832798116035092
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.635,0.10937275728434026
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6375,0.1104294478527605
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.64,0.11149825783972105
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6425000000000001,0.11257939694823667
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.645,0.11367307974739296
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6475,0.11477952581431397
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.65,0.11589895988112905
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6525000000000001,0.11703161198714578
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.655,0.11817771763644543
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6575,0.11933751796112811
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.66,0.12051125989044409
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6625000000000001,0.12169919632606181
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.665,0.12290158632373303
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6675,0.12411869528162989
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.67,0.12535079513564057
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6725000000000001,0.12659816456192624
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.675,0.12786108918705583
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6775,0.1291398618060517
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6799999999999999,0.13043478260869537
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6825,0.13174615941446127
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.685,0.13307430791646407
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6875,0.13441955193482663
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.69,0.13578222367989473
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6925,0.13716266402574867
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6950000000000001,0.1385612227944839
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.6975,0.13997825905175992
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7,0.14141414141414113
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7025000000000001,0.14286924836878212
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7050000000000001,0.1443439686060397
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7075,0.14583870136562715
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.71,0.14735385679695578
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7124999999999999,0.14888985633434884
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7150000000000001,0.15044713308784827
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7175,0.15202613225037492
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.72,0.15362731152204806
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7224999999999999,0.1552511415525111
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7250000000000001,0.15689810640216387
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7275,0.1585687040232492
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.73,0.1602634467617999
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7324999999999999,0.16198286188150707
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7350000000000001,0.16372749211063647
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7375,0.16549789621318345
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.74,0.16729464958553095
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7424999999999999,0.16911834487994654
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7450000000000001,0.17096959265633943
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7475,0.17284902206378236
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.75,0.17475728155339773
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7525,0.17669503962430252
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7550000000000001,0.17866298560441704
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7575000000000001,0.18066183046805098
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.76,0.18269230769230738
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7625,0.18475517415446707
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7650000000000001,0.18685121107266411
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7675000000000001,0.18898122499230505
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.77,0.19114604882085198
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7725,0.193346542913755
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7750000000000001,0.19558359621451082
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7775000000000001,0.19785812745201967
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.78,0.20017108639863096
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7825,0.20252345519249398
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7849999999999999,0.20491624972808312
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7875000000000001,0.2073505211190343
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.79,0.20982735723771548
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7925,0.21234788433627294
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7949999999999999,0.21491326875422348
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.7975000000000001,0.21752471871803586
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8,0.22018348623853176
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8025,0.22289086911237085
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8049999999999999,0.22564821303433732
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8075000000000001,0.22845691382765507
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.81,0.23131841980009485
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8125,0.2342342342342338
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.815,0.23720591802085808
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8175000000000001,0.24023509244520602
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8200000000000001,0.2433234421364982
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8225,0.2464727181920336
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.825,0.24968474148801967
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8275000000000001,0.252961406190294
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8300000000000001,0.2563046834791556
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8325,0.2597166255037043
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.835,0.26319936958234785
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8375000000000001,0.2667551426675512
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8400000000000001,0.2703862660944203
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8425,0.2740951606344038
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.845,0.27788435187722615
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8474999999999999,0.28175647596619974
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8500000000000001,0.2857142857142854
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8525,0.28976065713071764
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.855,0.2938985963907185
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8574999999999999,0.29813124728378904
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8600000000000001,0.30246189917936667
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8625,0.30689399555226055
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.865,0.31143114311431097
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8674999999999999,0.3160771216031571
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8700000000000001,0.3208358942839579
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8725,0.3257116192253846
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.875,0.33070866141732236
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8775,0.3358316058044963
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8800000000000001,0.3410852713178292
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8825000000000001,0.34647472599378343
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.885,0.3520053032814049
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8875,0.3576826196473546
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8900000000000001,0.36351259360108895
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8925000000000001,0.3695014662756595
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.895,0.3756558237145851
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.8975,0.3819826210320973
+Extended lumbar drainage,FT-036,peer_reviewed_full_report,0.9,0.3884892086330931

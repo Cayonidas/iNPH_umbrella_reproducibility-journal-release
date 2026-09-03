@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility archive, please cite the archived release."
+title: "Reproducibility archive for an umbrella review of pre-shunt decision validity in iNPH"
+version: "1.2.3"
+date-released: 2026-09-02
+type: software
+authors:
+  - family-names: "Maciel"
+    given-names: "Caio Arruda"
+    orcid: "https://orcid.org/0009-0007-4514-4891"
+  - family-names: "da Silva"
+    given-names: "Kauã Gabriel Oliveira"
+  - family-names: "de Paula"
+    given-names: "Vinicius Galbim"
+  - family-names: "Wouters"
+    given-names: "Kim"
+  - family-names: "de Paiva"
+    given-names: "Michelle Rüedi"
+  - family-names: "Pinto"
+    given-names: "Fernando Campos Gomes"
+keywords:
+  - "idiopathic normal-pressure hydrocephalus"
+  - "shunt response"
+  - "umbrella review"
+  - "systematic review"
+  - "reproducibility"
+license: MIT
+

@@ -1,0 +1,12 @@
+analysis_cell,anchor_review_n,anchor_reviews,microcells_n,wholly_dependent_on_one_review,depends_on_ft012,depends_on_ft003,depends_on_any_current_team_authored_review
+BIOMARKERS,1,FT-030,3,True,False,False,False
+COGNITIVE_CHANGE,1,FT-002,11,True,False,False,False
+COMPARATIVE_PROGNOSTIC_TESTS,1,FT-031,8,True,False,False,False
+COMPLEX_PHENOTYPE,1,FT-003,11,True,False,True,True
+ELD_DTA,1,FT-036,4,True,False,False,False
+GAIT_CHANGE,1,FT-024,1,True,False,False,False
+LIT_DTA,1,FT-012,2,True,True,False,False
+ROUT_THRESHOLDS,1,FT-010,9,True,False,False,False
+STRUCTURAL_IMAGING,2,FT-028; FT-032,9,False,False,False,False
+SURVIVAL,1,FT-019,4,True,False,False,False
+TAP_TEST_DTA,1,FT-012,2,True,True,False,False

@@ -1,0 +1,35 @@
+metric,value,denominator,formatted,interpretation_status
+Included reviews,41,,41,FINAL_ELIGIBILITY
+Excluded after full text,13,,13,FINAL_ELIGIBILITY
+Unavailable full texts,5,,5,FINAL_ELIGIBILITY
+Structured findings,192,,192,FINAL_EXTRACTION
+Quantitative estimates,155,,155,FINAL_EXTRACTION
+Anchor estimates,64,155,64/155,NO_POOL_ACROSS_REVIEWS
+Supporting estimates,64,155,64/155,CONCORDANCE_ONLY
+Own-cohort hybrid estimates,21,155,21/155,EXCLUDED_FROM_UMBRELLA_POOL
+Outcome definitions,139,,139,FINAL_EXTRACTION
+Author-defined response definitions,92,139,66.2%,DEFINITION_AUDIT
+Statistical-change-only definitions,28,139,20.1%,DEFINITION_AUDIT
+Source-labelled validated-threshold definitions,5,139,3.6%,SOURCE_LABEL_RETAINED_NOT_EQUIVALENT_TO_INPH_VALIDATION
+Thresholds explicitly validated for iNPH shunt response,0,139,0.0%,CONSERVATIVE_DEFINITION_AUDIT
+General instrument validation only,4,139,2.9%,NOT_SHUNT_RESPONSE_THRESHOLD_VALIDATION
+Clearly patient-reported definitions,8,139,5.8%,DEFINITION_AUDIT
+MCID explicitly unreported,134,139,96.4%,DEFINITION_AUDIT
+MCID sources specific to iNPH shunt response,0,139,0.0%,CONSERVATIVE_DEFINITION_AUDIT
+ROBIS high — Reviewer 1,36,41,36/41,INDEPENDENT_PRECONSENSUS
+ROBIS high — Reviewer 2,25,41,25/41,INDEPENDENT_PRECONSENSUS
+ROBIS high — final author consensus,32,41,32/41,FINAL_AUTHOR_CONSENSUS
+ROBIS unclear — final author consensus,4,41,4/41,FINAL_AUTHOR_CONSENSUS
+ROBIS low — final author consensus,5,41,5/41,FINAL_AUTHOR_CONSENSUS
+AMSTAR 2 applicable — Reviewer 1,15,41,15/41,SCOPE_SPECIFIC
+AMSTAR 2 applicable — Reviewer 2,13,41,13/41,SCOPE_SPECIFIC
+AMSTAR 2 applicable — final author consensus,15,41,15/41,FINAL_AUTHOR_CONSENSUS
+AMSTAR 2 critically low — final author consensus,14,15,14/15,FINAL_AUTHOR_CONSENSUS
+AMSTAR 2 low — final author consensus,1,15,1/15,FINAL_AUTHOR_CONSENSUS
+Publication CCA,0.015022015022015021,19,1.50%,PARTIAL_COVERAGE
+Cohort-family CCA,0.014788076385654401,20,1.48%,PARTIAL_COVERAGE
+Unique publications repeated across reviews,94,429,21.9%,INTUITIVE_DUPLICATION_BURDEN_PARTIAL_COVERAGE
+Publication occurrences beyond first,116,545,21.3%,INTUITIVE_DUPLICATION_BURDEN_PARTIAL_COVERAGE
+Cohort families repeated across reviews,97,452,21.5%,INTUITIVE_DUPLICATION_BURDEN_PARTIAL_COVERAGE
+Cohort occurrences beyond first,127,579,21.9%,INTUITIVE_DUPLICATION_BURDEN_PARTIAL_COVERAGE
+Rout thresholds with NPV/prevalence inconsistency,3,3,3/3,SOURCE_VALUES_RETAINED_AUDIT_FLAGGED

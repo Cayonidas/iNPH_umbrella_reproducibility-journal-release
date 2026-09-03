@@ -1,0 +1,3 @@
+master_id,report_unit,status,main_analysis,sensitivity_exclude,rule,notes
+FT-012,ACCEPTED_ARTICLE_WITH_PREPRINT_FULL_TEXT_PROVENANCE,ACCEPTED_PEER_REVIEWED_FINAL_FORMAT_PENDING,YES,SINGLE_ANCHOR_ROBUSTNESS_ONLY,Use accepted Frontiers abstract for bibliographic and pooled quantitative fields; use complete preprint only for full-text structural fields until formatted article is available,Do not describe FT-012 exclusion as peer-reviewed-only; accepted abstract reports 15 studies while CCA retains 14 identifiable preprint studies
+FT-003,SINGLE_REVIEW,PEER_REVIEWED,YES,YES,Include in the main analysis with independent nonauthor appraisal,Exclude in author-conflict sensitivity

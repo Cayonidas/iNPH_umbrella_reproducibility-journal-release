@@ -1,0 +1,47 @@
+Package: iNPHUmbrellaAnalysis
+Type: Project
+Title: Reproducible Analysis for the iNPH Umbrella Review
+Version: 1.2.3
+Authors@R: c(
+    person("Caio Arruda", "Maciel", role = c("aut", "cre")),
+    person("Kauã Gabriel Oliveira", "da Silva", role = "ctb"),
+    person("Vinicius Galbim", "de Paula", role = "ctb"),
+    person("Kim", "Wouters", role = "ctb"),
+    person("Michelle Rüedi", "de Paiva", role = "ctb"),
+    person("Fernando Campos Gomes", "Pinto", role = "ctb")
+  )
+Description: Imports, validates, analyses, and reports the adjudicated evidence,
+    quality appraisal, outcome-definition taxonomy, and study overlap for an
+    umbrella review of shunt-response prediction and measurement in idiopathic
+    normal-pressure hydrocephalus. Review-level pooled estimates are never
+    meta-meta-analysed. An optional diagnostic-accuracy module accepts only
+    verified primary-study 2x2 data. Version 1.1 adds conservative outcome-
+    validity adjudication, probability translation, source-consistency audits,
+    claim-level categorical credibility profiles. Version 1.2 incorporates the
+    final author ROBIS/AMSTAR 2 consensus, consensus-based quality sensitivities,
+    final quality figures, and accepted-source/preprint-structure provenance.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.2.0)
+Imports:
+    digest,
+    dplyr,
+    ggplot2,
+    jsonlite,
+    patchwork,
+    purrr,
+    readr,
+    readxl,
+    rlang,
+    scales,
+    stringr,
+    tibble,
+    tidyr,
+    yaml
+Suggests:
+    knitr,
+    mada,
+    metafor,
+    renv,
+    rmarkdown,
+    testthat

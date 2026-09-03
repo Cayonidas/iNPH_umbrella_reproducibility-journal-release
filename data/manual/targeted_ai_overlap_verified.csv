@@ -1,0 +1,11 @@
+review_id,study_key,first_author,year,response_reference_standard,direct_post_shunt_reference,source_locator,verification_status
+FT-021,MAZZONE_1996,Mazzone,1996,Post-shunt response,TRUE,FT-021 included-study table and reference list,VERIFIED_EXPLICIT_TABLE
+FT-021,RAU_2021,Rau,2021,Post-shunt response,TRUE,FT-021 included-study table and reference list,VERIFIED_EXPLICIT_TABLE
+FT-021,SOTOUDEH_2021,Sotoudeh,2021,Post-shunt treatment response,TRUE,FT-021 included-study table and reference list,VERIFIED_EXPLICIT_TABLE
+FT-021,WU_2021,Wu,2021,CSF-drainage response and shunt outcome,FALSE,FT-021 included-study table and reference list,VERIFIED_EXPLICIT_TABLE
+FT-021,GRIFFA_2022,Griffa,2022,CSF tap-test response,FALSE,FT-021 included-study table and reference list,VERIFIED_EXPLICIT_TABLE
+FT-021,MLADEK_2022,Mladek,2022,Lumbar-infusion response,FALSE,FT-021 included-study table and reference list,VERIFIED_EXPLICIT_TABLE
+FT-021,LANG_2023,Lang,2023,Temporary CSF-drainage response,FALSE,FT-021 included-study table and reference list,VERIFIED_EXPLICIT_TABLE
+FT-021,LEVIN_2023,Levin,2023,Post-shunt response,TRUE,FT-021 included-study table and reference list,VERIFIED_EXPLICIT_TABLE
+FT-027,SOTOUDEH_2021,Sotoudeh,2021,Post-shunt treatment response,TRUE,FT-027 treatment-response subset table,VERIFIED_EXPLICIT_TABLE
+FT-027,MLADEK_2022,Mladek,2022,Lumbar-infusion response,FALSE,FT-027 treatment-response subset table,VERIFIED_EXPLICIT_TABLE
